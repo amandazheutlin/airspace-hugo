@@ -51,7 +51,7 @@ cta:
   title: ''
   content: ''
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact
 funfacts:
