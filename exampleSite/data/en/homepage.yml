@@ -27,7 +27,7 @@ about:
     name: Average farmer share for every $1 sold
     count: "0.05"
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: WE BELIEVE IN GREAT IDEAS
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
@@ -44,8 +44,9 @@ portfolio:
     link: project
 service:
   enable: true
+  service_item: []
 cta:
-  enable: true
+  enable: false
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself
