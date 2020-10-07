@@ -11,17 +11,17 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
+  title: Hello!
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: 'I am an Economics PhD student at Yale where my research has focused on
+    how international trade affects farmers in South America. '
   image: images/wrapper-img.png
+  funfacts:
+  - icon: ''
+    name: ''
+    count: ''
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
