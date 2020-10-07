@@ -44,7 +44,10 @@ portfolio:
     link: project
 service:
   enable: true
-  service_item: []
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
