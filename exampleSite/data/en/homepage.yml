@@ -70,9 +70,9 @@ funfacts:
   - icon: ion-ios-analytics-outline
     name: Agricultural transactions in Ecuador
     count: "14000000"
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+  - icon: ion-ios-cash-outline
+    name: Average farmer share for every $100 sold
+    count: "5"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
