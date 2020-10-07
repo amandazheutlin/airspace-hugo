@@ -17,7 +17,7 @@ about:
   content: ''
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
-  - icon: ion-ios-analytics-outline
+  - icon: ion-analytics-outline
     name: Agricultural transactions in Ecuador
     count: "14873900"
   - icon: ion-ios-earth-sharp
