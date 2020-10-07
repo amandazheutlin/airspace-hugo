@@ -17,15 +17,15 @@ about:
   content: ''
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
-  - icon: ''
-    name: ''
-    count: ''
-  - icon: map-outline
-    name: Countries with trade data
-    count: "7"
   - icon: analytics-outline
     name: Agricultural transactions in Ecuador
     count: "14873900"
+  - icon: map-outline
+    name: Countries affected by trade agreement
+    count: "7"
+  - icon: ''
+    name: ''
+    count: ''
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
