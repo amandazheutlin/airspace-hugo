@@ -17,10 +17,10 @@ about:
   content: ''
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
-  - icon: ion-analytics-outline
+  - icon: ion-analytics
     name: Agricultural transactions in Ecuador
     count: "14873900"
-  - icon: ion-earth-sharp
+  - icon: ion-earth
     name: Countries affected by trade agreement
     count: "7"
   - icon: ion-cash-sharp
