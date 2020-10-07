@@ -20,10 +20,10 @@ about:
   - icon: ion-analytics-outline
     name: Agricultural transactions in Ecuador
     count: "14873900"
-  - icon: ion-ios-earth-sharp
+  - icon: ion-earth-sharp
     name: Countries affected by trade agreement
     count: "7"
-  - icon: ion-ios-cash-sharp
+  - icon: ion-cash-sharp
     name: Average farmer share for every $1 sold
     count: "0.05"
 portfolio:
