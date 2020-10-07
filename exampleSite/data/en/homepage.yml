@@ -65,8 +65,8 @@ funfacts:
     right at the coast of the Semantics'"
   funfact_item:
   - icon: ion-earth
-    name: Cups Of Coffee
-    count: "99"
+    name: Countries affected by trade agreement
+    count: "7"
   - icon: ion-ios-analytics-outline
     name: Agricultural transactions in Ecuador
     count: "14000000"
