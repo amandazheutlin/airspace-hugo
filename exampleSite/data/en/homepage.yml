@@ -17,7 +17,7 @@ about:
   content: ''
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
-  - icon: ''
+  - icon: map-outline
     name: Countries with trade data
     count: "7"
   - icon: ''
