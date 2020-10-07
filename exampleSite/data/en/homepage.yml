@@ -20,9 +20,9 @@ about:
   - icon: map-outline
     name: Countries with trade data
     count: "7"
-  - icon: ''
-    name: ''
-    count: ''
+  - icon: analytics-outline
+    name: Farmers in Ecuador
+    count: "5000"
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
