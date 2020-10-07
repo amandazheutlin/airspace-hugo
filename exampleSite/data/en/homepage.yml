@@ -23,9 +23,9 @@ about:
   - icon: map-outline
     name: Countries affected by trade agreement
     count: "7"
-  - icon: ''
-    name: ''
-    count: ''
+  - icon: cash-outline
+    name: Average farmer share for every $1 sold
+    count: "0.05"
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
