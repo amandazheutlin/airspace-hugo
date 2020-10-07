@@ -12,13 +12,14 @@ banner:
 about:
   enable: true
   title: Hello!
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: 'I am an Economics PhD student at Yale where my research has focused on
-    how international trade affects farmers in South America. '
+  description: 'I am an Economics PhD student at Yale where my research has focused
+    on how international trade affects farmers in South America. '
+  content: ''
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
+  - icon: ''
+    name: Countries with trade data
+    count: "7"
   - icon: ''
     name: ''
     count: ''
