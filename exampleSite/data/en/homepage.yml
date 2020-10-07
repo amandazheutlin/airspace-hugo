@@ -2,8 +2,8 @@
 banner:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
-  bg_overlay: true
-  title: Lucas Zavala
+  bg_overlay: false
+  title: Lucas Zavala Test
   content: PhD student at Yale University in trade and development economics
   button:
     enable: true
