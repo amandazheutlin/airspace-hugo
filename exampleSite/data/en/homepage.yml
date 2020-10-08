@@ -7,7 +7,7 @@ banner:
   content: PhD student at Yale University in trade and development economics
   button:
     enable: false
-    label: Discover Our Project
+    label: Link Here
     link: project
 about:
   enable: true
