@@ -1,6 +1,6 @@
 ---
-title: "Drop Us A Note"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Get in Touch
+description: lucas.zavala@yale.edu
+bg_image: images/featue-bg.jpg
+
 ---
