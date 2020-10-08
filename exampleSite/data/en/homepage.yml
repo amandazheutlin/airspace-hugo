@@ -42,6 +42,22 @@ portfolio:
     enable: true
     label: Read More
     link: project
+mentorship:
+  enable: true
+  bg_image: images/featue-bg.jpg
+  title: MENTORSHIP
+  content: "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
+    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+    condimentum nibh, ut fermentum massa justo sit amet risus. \n\nMaecenas faucibus
+    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
+    massa justo sit amet risus. \n\nMaecenas faucibus mollis interdum. Morbi leo risus,
+    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
+    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  button:
+    enable: true
+    label: Read More
+    link: project
 service:
   enable: true
 cta:
