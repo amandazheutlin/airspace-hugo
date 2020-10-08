@@ -32,7 +32,7 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: RESEARCH
+  title: POLICY
   content: "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
     condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
@@ -44,7 +44,7 @@ portfolio:
   button:
     enable: true
     label: Read More
-    link: project
+    link: service
 service:
   enable: true
   service_item:
