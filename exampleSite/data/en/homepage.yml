@@ -28,7 +28,7 @@ about:
   button:
     enable: true
     label: Read More
-    link: project
+    link: about
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
