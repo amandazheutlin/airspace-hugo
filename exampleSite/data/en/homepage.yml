@@ -61,7 +61,7 @@ cta:
     label: Tell Us Your Story
     link: contact
 funfacts:
-  enable: true
+  enable: false
   title: Research Facts
   description: ''
   funfact_item:
