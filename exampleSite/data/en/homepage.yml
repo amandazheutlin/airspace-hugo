@@ -11,10 +11,9 @@ banner:
     link: project
 about:
   enable: true
-  title: Hello!
-  description: 'I am an Economics PhD student at Yale where my research has focused
-    on how international trade affects farmers in South America. '
-  content: ''
+  title: RESEARCH
+  description: ''
+  content: My research is focused on international trade in South America.
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
   funfacts:
   - icon: ion-analytics
@@ -26,6 +25,10 @@ about:
   - icon: ion-cash
     name: Average farmer share for every $1 sold
     count: "0.05"
+  button:
+    enable: true
+    label: Read More
+    link: project
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
