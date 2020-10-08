@@ -45,6 +45,12 @@ portfolio:
     enable: true
     label: Read More
     link: service
+service:
+  enable: true
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
@@ -54,14 +60,8 @@ cta:
     enable: false
     label: Tell Us Your Story
     link: contact
-service:
-  enable: true
-  service_item:
-  - icon: ''
-    name: ''
-    content: ''
 funfacts:
-  enable: true
+  enable: false
   title: Research Facts
   description: ''
   funfact_item:
