@@ -15,7 +15,7 @@ about:
   description: ''
   content: My research is focused on international trade in South America.
   image: "/images/06-_lucas_zavala_0_0_0.jpg"
-  funfacts:
+  funfact_item:
   - icon: ion-analytics
     name: Agricultural transactions in Ecuador
     count: "14873900"
@@ -45,12 +45,6 @@ portfolio:
     enable: true
     label: Read More
     link: service
-service:
-  enable: true
-  service_item:
-  - icon: ''
-    name: ''
-    content: ''
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
@@ -60,6 +54,12 @@ cta:
     enable: false
     label: Tell Us Your Story
     link: contact
+service:
+  enable: true
+  service_item:
+  - icon: ''
+    name: ''
+    content: ''
 funfacts:
   enable: true
   title: Research Facts
