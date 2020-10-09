@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.research.about.enable }}
-{{ with $data.research.about }}
+{{ if $data.about.about.enable }}
+{{ with $data.about.about }}
 <section class="about section">
   <div class="container">
     <div class="row">
@@ -45,8 +45,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.research.features.enable }}
-{{ with $data.research.features }}
+{{ if $data.about.features.enable }}
+{{ with $data.about.features }}
 <section class="about-feature bg-dark section dark-service">
   <div class="container">
     {{ with .title }}
