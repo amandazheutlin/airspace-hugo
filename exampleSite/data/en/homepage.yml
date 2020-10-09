@@ -6,8 +6,8 @@ banner:
   title: Lucas Zavala
   content: PhD student @ Yale Economics
   button:
-    enable: false
-    label: Discover Our Project
+    enable: true
+    label: CV
     link: project
 about:
   enable: true
