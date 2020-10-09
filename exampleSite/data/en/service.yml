@@ -36,7 +36,7 @@ service:
   title: Other Interests
   description: ''
   service_item:
-  - icon: ion-football
+  - icon: ion-ios-football
     name: Intramural Sports
     content: 3 years IM soccer and basketball
   - icon: ion-search
