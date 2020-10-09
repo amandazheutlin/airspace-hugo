@@ -11,7 +11,7 @@ about:
     enable: true
     label: Job Market Paper
     link: "#"
-  button:
+  button2:
     enable: true
     label: CV
     link: "#"
