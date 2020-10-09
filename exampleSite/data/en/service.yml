@@ -44,7 +44,7 @@ service:
     content: 'Best sighting: fall sparrow migration'
   - icon: ion-android-bicycle
     name: Biking
-    content: 'Current goal: Bike the entire Framingham Canal Trail (CT to MA)'
+    content: 'Current goal: Bike the entire Farmington Canal Trail (CT to MA)'
   - icon: ion-coffee
     name: Coffee
     content: Because of course
