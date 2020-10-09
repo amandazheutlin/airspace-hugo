@@ -13,7 +13,7 @@ about:
     link: "#"
   button:
     enable: true
-    label: Job Market Paper
+    label: CV
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
