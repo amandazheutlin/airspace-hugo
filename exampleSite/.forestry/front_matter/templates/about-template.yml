@@ -31,6 +31,24 @@ fields:
     - type: text
       name: link
       label: link
+  - name: button2
+    type: field_group
+    config: {}
+    fields:
+    - name: enable
+      type: boolean
+      label: enable
+    - name: label
+      type: text
+      config:
+        required: false
+      label: label
+    - name: link
+      type: text
+      config:
+        required: false
+      label: link
+    label: button2
   - type: field_group_list
     name: funfacts
     label: funfacts
@@ -65,30 +83,6 @@ fields:
       name: name
       label: name
     - type: text
-      name: content
-      label: content
-- type: field_group
-  name: testimonial
-  label: testimonial
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-- type: field_group
-  name: mission_vision
-  label: mission_vision
-  fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: field_group_list
-    name: tabs
-    label: tabs
-    fields:
-    - type: text
-      name: name
-      label: name
-    - type: textarea
       name: content
       label: content
 - type: field_group
