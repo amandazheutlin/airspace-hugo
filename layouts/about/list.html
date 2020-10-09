@@ -22,6 +22,11 @@
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
         {{ end }}
         {{ end }}
+        {{ if .button.enable }}
+        {{ with .button }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
       </div>
     </div>
     <div class="row counter-box text-center mt-50">
@@ -69,6 +74,12 @@
 {{ end }}
 {{ end }}
 
+<!-- Call to action -->
+{{ if $data.about.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
 <section class="testimonial section-sm">
   <div class="container">
     <div class="row">
@@ -115,11 +126,5 @@
     </div>
   </div>
 </section>
-
-<!-- Call to action -->
-{{ if $data.about.cta.enable }}
-{{ partial "cta.html" . }}
-{{ end }}
-<!-- /Call to action -->
 
 {{ end }}
