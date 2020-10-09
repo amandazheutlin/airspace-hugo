@@ -45,10 +45,9 @@ service:
   - icon: ion-bicycle
     name: Biking
     content: 'Current goal: Bike the entire Framingham Canal Trail (CT to MA)'
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-coffee
+    name: Coffee
+    content: Because of course
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
