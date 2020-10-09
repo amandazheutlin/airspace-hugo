@@ -11,6 +11,10 @@ about:
     enable: true
     label: Job Market Paper
     link: "#"
+  button:
+    enable: true
+    label: Job Market Paper
+    link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
