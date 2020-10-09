@@ -42,7 +42,7 @@ service:
   - icon: ion-search
     name: Bird Watching
     content: 'Best sighting: fall sparrow migration'
-  - icon: ion-bicycle
+  - icon: ion-android-bicycle
     name: Biking
     content: 'Current goal: Bike the entire Framingham Canal Trail (CT to MA)'
   - icon: ion-coffee
