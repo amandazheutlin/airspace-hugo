@@ -30,6 +30,10 @@ about:
   - icon: ion-ios-body-outline
     name: Awards Winner
     count: "20"
+  button2:
+    enable: true
+    label: CV
+    link: ''
 features:
   enable: true
   title: We are indepented Design & Development Agency
