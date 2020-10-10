@@ -16,7 +16,7 @@ URL = "about"
 name = "Research"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "project"
+URL = "policy"
 name = "Policy"
 weight = 2
 [[Languages.en.menu.footer]]
@@ -44,7 +44,7 @@ URL = "about"
 name = "Research"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
+URL = "policy"
 name = "Policy"
 weight = 3
 [[Languages.en.menu.main]]
