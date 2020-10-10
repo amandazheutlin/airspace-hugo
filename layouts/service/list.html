@@ -13,6 +13,11 @@
         <h2>{{ .title | markdownify }}</h2>
         <p>{{ .description | markdownify }}</p>
         <p class="mt-30">{{ .content | markdownify }}</p> 
+          {{ if .button.enable }}
+          {{ with .button }}
+          <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
       </div>
       <div class="col-md-6">
         <img class="img-responsive" src="{{ .image | absURL }}">
