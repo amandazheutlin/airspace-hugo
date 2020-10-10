@@ -20,7 +20,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: 'Case: MeToo '
+  - name: 'Case: MeToo & Sexual Crime Reporting '
     icon: ion-erlenmeyer-flask
     color: primary
     content: A global investigation of shifts in sexual assault and harassment reporting
