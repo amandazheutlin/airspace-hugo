@@ -1,1 +1,56 @@
-blank doc
+---
+about:
+  enable: true
+  title: Course Title
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
+    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
+    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
+    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
+    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
+    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
+    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
+    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
+    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
+    dolore officia adipisci neque!
+  image: "/images/preview-full-evans_hall-1024x598.jpg"
+  description: Yale School of Management, 2019-2021
+  button:
+    enable: true
+    label: Course Syllabus
+featured_service:
+  enable: true
+  service_item:
+  - name: 'Case: MeToo & Sex Crime Reporting '
+    icon: ion-erlenmeyer-flask
+    color: primary
+    content: A global investigation of shifts in sexual assault and harassment reporting
+      as a result of the MeToo movement.
+  - name: 'Case: Common Ownership of Airlines'
+    icon: ion-leaf
+    color: primary-dark
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  - name: 'Case: BLM Protests & Minority-Owned Businesses'
+    icon: ion-lightbulb
+    color: primary-darker
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+service:
+  enable: false
+  title: Other Interests
+  description: ''
+  service_item:
+  - icon: ion-ios-football
+    name: Intramural Sports
+    content: 3 years IM soccer and basketball
+  - icon: ion-search
+    name: Bird Watching
+    content: 'Best sighting: fall sparrow migration'
+  - icon: ion-android-bicycle
+    name: Biking
+    content: 'Current goal: Bike the entire Farmington Canal Trail (CT to MA)'
+  - icon: ion-coffee
+    name: Coffee
+    content: Because of course
+cta:
+  enable: true
