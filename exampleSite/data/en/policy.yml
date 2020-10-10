@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Course Title
+  title: Policy & Outreach
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
@@ -12,10 +12,10 @@ about:
     voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
-  image: "/images/preview-full-evans_hall-1024x598.jpg"
-  description: Yale School of Management, 2019-2021
+  image: "/images/f5322176-7377-4ed8-85e1-de761f99cd98.JPG"
+  description: ''
   button:
-    enable: true
+    enable: false
     label: Course Syllabus
 featured_service:
   enable: true
