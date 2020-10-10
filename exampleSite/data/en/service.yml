@@ -14,6 +14,9 @@ about:
     dolore officia adipisci neque!
   image: "/images/preview-full-evans_hall-1024x598.jpg"
   description: Yale School of Management
+  button:
+    enable: true
+    label: Course Syllabus
 featured_service:
   enable: true
   service_item:
