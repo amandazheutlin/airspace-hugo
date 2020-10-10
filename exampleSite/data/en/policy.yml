@@ -20,11 +20,10 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: 'Case: MeToo & Sex Crime Reporting '
+  - name: 'Policy Publications '
     icon: ion-erlenmeyer-flask
     color: primary
-    content: A global investigation of shifts in sexual assault and harassment reporting
-      as a result of the MeToo movement.
+    content: I was commissioned to write a chapter by the World Bank.
   - name: 'Case: Common Ownership of Airlines'
     icon: ion-leaf
     color: primary-dark
