@@ -39,7 +39,7 @@ portfolio:
   button:
     enable: true
     label: Read More
-    link: project
+    link: policy
 mentorship:
   enable: true
   bg_image: "/images/2018_pnw.JPG"
