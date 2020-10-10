@@ -21,7 +21,7 @@ name = "Policy"
 weight = 2
 [[Languages.en.menu.footer]]
 URL = "service"
-name = "Service"
+name = "Teaching"
 weight = 3
 [[Languages.en.menu.footer]]
 URL = "pricing"
@@ -49,7 +49,7 @@ name = "Policy"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
+name = "Teaching"
 weight = 4
 [[Languages.en.menu.main]]
 URL = "blog"
