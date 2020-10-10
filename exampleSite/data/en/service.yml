@@ -17,11 +17,11 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: 'Case: MeToo '
     icon: ion-erlenmeyer-flask
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: A global investigation of shifts in sexual assault reporting as a result
+      of the MeToo movement.
   - name: Product Branding
     icon: ion-leaf
     color: primary-dark
