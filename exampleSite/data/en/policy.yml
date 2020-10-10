@@ -24,11 +24,10 @@ featured_service:
     icon: ion-erlenmeyer-flask
     color: primary
     content: I was commissioned to write a chapter by the World Bank.
-  - name: 'Case: Common Ownership of Airlines'
+  - name: Policy Research
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Paper from World Bank
   - name: 'Case: BLM Protests & Minority-Owned Businesses'
     icon: ion-lightbulb
     color: primary-darker
