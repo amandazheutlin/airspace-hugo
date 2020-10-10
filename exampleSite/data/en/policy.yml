@@ -28,11 +28,10 @@ featured_service:
     icon: ion-leaf
     color: primary-dark
     content: Paper from World Bank
-  - name: 'Case: BLM Protests & Minority-Owned Businesses'
+  - name: Data Science Workshop for Policy Professionals
     icon: ion-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Created and taught policy workshop in R for research team in Ecuador.
 service:
   enable: false
   title: Other Interests
