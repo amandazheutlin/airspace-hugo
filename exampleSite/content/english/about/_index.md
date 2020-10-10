@@ -1,6 +1,6 @@
 ---
 title: Research
 description: ''
-bg_image: "/images/img_8997.jpg"
+bg_image: "/images/img_8997_orig.jpg"
 
 ---
