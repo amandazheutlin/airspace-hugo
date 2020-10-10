@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Creative UX/UI Design Agency
+  title: Course Title
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
@@ -13,6 +13,7 @@ about:
     suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
     dolore officia adipisci neque!
   image: images/company/company-group-pic.jpg
+  description: Yale School of Management
 featured_service:
   enable: true
   service_item:
