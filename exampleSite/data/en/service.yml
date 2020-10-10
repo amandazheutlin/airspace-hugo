@@ -20,12 +20,12 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: 'Case: MeToo & Sexual Crime Reporting '
+  - name: 'Case: MeToo & Sex Crime Reporting '
     icon: ion-erlenmeyer-flask
     color: primary
     content: A global investigation of shifts in sexual assault and harassment reporting
       as a result of the MeToo movement.
-  - name: 'Case: Airline Common Ownership'
+  - name: 'Case: Common Ownership of Airlines'
     icon: ion-leaf
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
