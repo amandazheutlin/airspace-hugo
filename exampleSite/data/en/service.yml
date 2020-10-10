@@ -20,8 +20,8 @@ featured_service:
   - name: 'Case: MeToo '
     icon: ion-erlenmeyer-flask
     color: primary
-    content: A global investigation of shifts in sexual assault reporting as a result
-      of the MeToo movement.
+    content: A global investigation of shifts in sexual assault and harassment reporting
+      as a result of the MeToo movement.
   - name: 'Case: Example 2'
     icon: ion-leaf
     color: primary-dark
