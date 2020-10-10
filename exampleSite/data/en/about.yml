@@ -47,9 +47,8 @@ features:
     content: Funding for travel to Quito, Ecuador to collaborate with the Dept of
       Y and lead a programming workshop
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Another funding source? '
+    content: More money!
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
