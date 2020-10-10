@@ -1,6 +1,6 @@
 ---
 title: Policy
 description: ''
-bg_image: "/images/2017_wellesley_foliage.jpg"
+bg_image: "/images/img_9043.JPG"
 
 ---
