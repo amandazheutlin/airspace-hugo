@@ -75,7 +75,7 @@ funfacts:
   button:
     enable: true
     label: Read More
-    link: about
+    link: service
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
