@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: CV
-    link: project
+    link: "/images/lucas_zavala_cv_template_edited.pdf"
 about:
   enable: true
   title: RESEARCH
