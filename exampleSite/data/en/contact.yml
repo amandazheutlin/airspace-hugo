@@ -1,2 +1,4 @@
+---
 contact:
+  enable: true
   image: "/images/06-lucas-zavala.jpg"
