@@ -2,7 +2,7 @@
 about:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: I study how international trade <br> affects farmers.
+  title: Title of Paper
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
 
@@ -15,6 +15,7 @@ about:
     enable: true
     label: CV
     link: "#"
+  description: Job Market Paper
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
