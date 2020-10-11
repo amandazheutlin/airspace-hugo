@@ -176,7 +176,7 @@ preloader = ""
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[params.social]]
 icon = "ion-ios-email-outline"
-link = "lucas.zavala@yale.edu"
+link = "mailto:lucas.zavala@yale.edu"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
