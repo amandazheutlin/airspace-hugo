@@ -32,7 +32,7 @@ about2:
     label: CV
     link: "#"
 features:
-  enable: true
+  enable: false
   title: Collaborators & Funding
   feature_item:
   - icon: ion-ios-color-filter-outline
