@@ -15,6 +15,36 @@ about:
     enable: false
     label: CV
     link: "#"
+  funfacts:
+    # funfacts loop
+    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Completed Projects"
+      count : "349"
+      
+    # funfacts loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lines Of Code"
+      count : "35000"
+      
+    # funfacts loop
+    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "70"
+      
+    # funfacts loop
+    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "10"
+      
+    # funfacts loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "75"
+      
+    # funfacts loop
+    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "20"
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
@@ -31,6 +61,36 @@ about2:
     enable: false
     label: CV
     link: "#"
+  funfacts:
+    # funfacts loop
+    - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Completed Projects"
+      count : "349"
+      
+    # funfacts loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lines Of Code"
+      count : "35000"
+      
+    # funfacts loop
+    - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "70"
+      
+    # funfacts loop
+    - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "10"
+      
+    # funfacts loop
+    - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Satisfied Customer"
+      count : "75"
+      
+    # funfacts loop
+    - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Awards Winner"
+      count : "20"
 features:
   enable: false
   title: Collaborators & Funding
