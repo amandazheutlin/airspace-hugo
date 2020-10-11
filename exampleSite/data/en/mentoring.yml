@@ -2,17 +2,17 @@
 about:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: Title of Paper
-  description: Job Market Paper
+  title: Graduate Application International Network
+  description: Executive Director
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
   button:
     enable: true
-    label: Job Market Paper
+    label: Read More
     link: "#"
   button2:
-    enable: true
+    enable: false
     label: CV
     link: "#"
 about2:
