@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.about.about.enable }}
-{{ with $data.about.about }}
+{{ if $data.mentoring.about.enable }}
+{{ with $data.mentoring.about }}
 <section class="about section">
   <div class="container">
     <div class="row">
@@ -37,8 +37,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.about.about2.enable }}
-{{ with $data.about.about2 }}
+{{ if $data.mentoring.about2.enable }}
+{{ with $data.mentoring.about2 }}
 <section class="about section-after">
   <div class="container">
     <div class="row">
@@ -70,8 +70,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.about.features.enable }}
-{{ with $data.about.features }}
+{{ if $data.mentoring.features.enable }}
+{{ with $data.mentoring.features }}
 <section class="about-feature bg-dark section dark-service">
   <div class="container">
     {{ with .title }}
@@ -100,7 +100,7 @@
 {{ end }}
 
 <!-- Call to action -->
-{{ if $data.about.cta.enable }}
+{{ if $data.mentoring.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
