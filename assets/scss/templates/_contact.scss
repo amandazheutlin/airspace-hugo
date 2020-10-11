@@ -16,6 +16,17 @@
       }
     }
 
+    .about-img {
+		  overflow:hidden;
+		  &:hover img {
+			  transform: scale3D(1.1,1.1,1);
+		  }
+		  img {
+			  opacity: .6;
+			  @include transition (all, 0.5s, ease-out);
+		  }
+	  }
+    
     .form-group-2 {
       margin-bottom: 13px;
 
