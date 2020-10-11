@@ -15,7 +15,6 @@ about:
     enable: true
     label: CV
     link: "#"
-  funfacts: []
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
