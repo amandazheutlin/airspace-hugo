@@ -29,17 +29,6 @@
         {{ end }}
       </div>
     </div>
-    <div class="row counter-box text-center mt-50">
-      {{ range .funfacts }}
-      <div class="col-md-2">
-        <div class="counter-item">
-          <i class="{{ .icon }}"></i>
-          <h4 class="count" data-count="{{ .count }}">0</h4>
-          <span>{{ .name }}</span>
-        </div>
-      </div>
-      {{ end }}
-    </div>
   </div>
 </section>
 {{ end }}
@@ -69,17 +58,6 @@
           <img class="img-responsive" src="{{ .image | relURL }}">
         </div>
       </div>
-    </div>
-    <div class="row counter-box text-center mt-50">
-      {{ range .funfacts }}
-      <div class="col-md-2">
-        <div class="counter-item">
-          <i class="{{ .icon }}"></i>
-          <h4 class="count" data-count="{{ .count }}">0</h4>
-          <span>{{ .name }}</span>
-        </div>
-      </div>
-      {{ end }}
     </div>
   </div>
 </section>
