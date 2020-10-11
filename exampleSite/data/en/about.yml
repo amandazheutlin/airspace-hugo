@@ -15,7 +15,7 @@ about:
   button2:
     enable: true
     label: CV
-    link: "#"
+    link: "/images/lucas_zavala_cv_template_edited.pdf"
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
