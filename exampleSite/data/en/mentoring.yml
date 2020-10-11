@@ -2,7 +2,7 @@
 about:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: Graduate Application International Network
+  title: Graduate Application International Network <br> University of Zurich
   description: Executive Director, 2020-present
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
