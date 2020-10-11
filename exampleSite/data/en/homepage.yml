@@ -51,7 +51,7 @@ mentorship:
   button:
     enable: true
     label: Read More
-    link: project
+    link: mentoring
 service:
   enable: true
 cta:
