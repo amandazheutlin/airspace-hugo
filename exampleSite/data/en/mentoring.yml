@@ -18,7 +18,7 @@ about:
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: Herb Scarf Summer Research Program
+  title: Herb Scarf Summer Research Program <br> Yale University
   description: Co-Director, 2017-2019
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
