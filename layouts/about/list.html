@@ -19,7 +19,7 @@
         <div class="section-title">
         <p>{{ .description | markdownify }}</p>
         </div>
-        {{ .content | markdownify }}
+        <p>{{ .content | markdownify }}</>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
@@ -52,7 +52,7 @@
         <div class="section-title">
         <p>{{ .description | markdownify }}</p>
         </div>
-        {{ .content | markdownify }}
+        <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
