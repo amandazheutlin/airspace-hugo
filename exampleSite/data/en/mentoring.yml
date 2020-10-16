@@ -47,8 +47,8 @@ about2:
     label: SCARF Website
     link: https://economics.yale.edu/undergraduate/sro
   button2:
-    enable: false
-    label: CV
+    enable: true
+    label: Related Press Article
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
