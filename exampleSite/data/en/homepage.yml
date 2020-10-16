@@ -26,12 +26,9 @@ portfolio:
   enable: true
   bg_image: "/images/2017_berkshires.jpg"
   title: POLICY
-  content: "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus. \n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus. "
+  content: 'Engaging with policymakers is at the heart of my research. I partner with
+    government agencies and international organizations to ask policy-relevant questions
+    and share the answers I find.    '
   button:
     enable: true
     label: Read More
