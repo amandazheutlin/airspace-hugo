@@ -61,9 +61,10 @@ cta:
 funfacts:
   enable: true
   title: Teaching
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: Today’s students should be fluent with data, comfortable with theory,
+    and excellent at  communicating. I helped develop and teach a course at the School
+    of Management that promotes these goals through data-driven case studies of real-world
+    economic issues.
   image: "/images/preview-full-evans_hall-1024x598.jpg"
   button:
     enable: true
