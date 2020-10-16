@@ -26,9 +26,9 @@ portfolio:
   enable: true
   bg_image: "/images/2017_berkshires.jpg"
   title: POLICY
-  content: 'Engaging with policymakers is at the heart of my research. I partner with
+  content: "Engaging with policymakers is at the heart of my research. I partner with
     government agencies and international organizations to ask policy-relevant questions
-    and share the answers I find.    '
+    and share the answers I find.   \n "
   button:
     enable: true
     label: Read More
