@@ -2,12 +2,18 @@
 about:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: Title of Paper
+  title: 'Unfair Trade: Market Power in Agricultural Value Chains'
   description: Job Market Paper
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  content: I show that market power among exporters is a key driver of low farmer
+    income in agricultural value chains. Using novel microdata from Ecuador, I document
+    low farmer income and high exporter concentration across a wide range of crops.
+    I propose a model of farmer crop choice and exporter strategic interaction that
+    links farmer income to exporter concentration via two elasticities, which govern
+    heterogeneity in farmer costs of switching crops and switching exporters. The
+    estimated model implies that farmer income would be 77% higher if exporters behaved
+    competitively. Counterfactual Fair Trade policies achieve up to half of the benefits
+    from perfect competition, suggesting a practical method for counteracting market
+    power.
   button:
     enable: true
     label: Job Market Paper
