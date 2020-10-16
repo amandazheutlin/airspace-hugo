@@ -37,9 +37,9 @@ mentorship:
   enable: true
   bg_image: "/images/2018_pnw.JPG"
   title: MENTORING
-  content: 'The best way to improve our research community is to help it grow larger
+  content: "The best way to improve our research community is to help it grow larger
     and more diverse. That’s why I have directed programs that mentor dozens of students
-    each year, both at Yale and abroad. '
+    each year, both at Yale and abroad. \n"
   button:
     enable: true
     label: Read More
