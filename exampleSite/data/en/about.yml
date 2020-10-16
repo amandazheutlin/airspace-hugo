@@ -25,12 +25,18 @@ about:
 about2:
   enable: true
   image: "/images/06-lucas-zavala.jpg"
-  title: Title of Work in Progress
-  description: Work in Progress
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  title: 'More than a Technicality: Technical Barriers to Trade and International
+    Market Structure'
+  description: Work in Progress, with Ana Fernandes and Daniel Reyes
+  content: We examine how technical barriers to trade shape the structure of international
+    markets. We construct the first dataset combining firm-level data on the universe
+    of importers and exporters across seven Latin American countries and market-level
+    data on all technical barriers affecting those markets over 20 years. At the market-level,
+    we show that following the introduction of a new restriction, the export side
+    of the market becomes more concentrated relative to the import side, and import
+    prices rise. Using the firm-level data, we decompose the price change into a quality
+    channel and a competition channel. Although higher quality explains most of the
+    price increase, lower competition still plays an important role.
   button:
     enable: true
     label: Abstract
