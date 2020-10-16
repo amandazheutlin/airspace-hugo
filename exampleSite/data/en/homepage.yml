@@ -37,12 +37,9 @@ mentorship:
   enable: true
   bg_image: "/images/2018_pnw.JPG"
   title: MENTORING
-  content: "Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus. \n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus. "
+  content: 'The best way to improve our research community is to help it grow larger
+    and more diverse. That’s why I have directed programs that mentor dozens of students
+    each year, both at Yale and abroad. '
   button:
     enable: true
     label: Read More
