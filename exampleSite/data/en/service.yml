@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  title: Course Title
+  title: Decision Making with Data
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
     corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
     ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
@@ -16,7 +16,8 @@ about:
   description: Yale School of Management, 2019-2021
   button:
     enable: true
-    label: Course Syllabus
+    label: Course Website
+    link: https://sompks4.github.io/sub_2020_m803.html
 featured_service:
   enable: true
   service_item:
