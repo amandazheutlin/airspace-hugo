@@ -17,7 +17,7 @@ about:
     label: CV
     link: "#"
   funfacts:
-  - icon: ion-ios-flame-outline
+  - icon: ion-android-people
     name: Successful Mentor-Student Matches
     count: "50"
   - icon: ion-cash
@@ -27,8 +27,8 @@ about:
     name: GRE Exams Covered
     count: "70"
   - icon: ion-ios-wineglass-outline
-    name: Participating Mentors
-    count: "10"
+    name: Mentor Institutions Worldwide
+    count: "20"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
     count: "75"
