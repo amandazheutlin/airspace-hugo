@@ -29,8 +29,8 @@ featured_service:
   - name: 'Case: Common Ownership of Airlines'
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: 'Uses data on airlines and institutional investors to see if mergers
+      between hedge funds increase ticket prices. '
   - name: 'Case: BLM Protests & Minority-Owned Businesses'
     icon: ion-lightbulb
     color: primary-darker
