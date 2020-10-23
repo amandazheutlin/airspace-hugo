@@ -56,7 +56,7 @@ about2:
   button2:
     enable: true
     label: Related Press Article
-    link: "#"
+    link: economics.yale.edu/news/scarf-summer-ra-program-still-going-strong-thanks-graduate-mentors#sthash.T4140a17.dpbs
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
