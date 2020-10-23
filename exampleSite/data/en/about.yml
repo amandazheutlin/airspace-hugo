@@ -66,8 +66,8 @@ features:
   - icon: ion-ios-paper-outline
     name: Nathan Hale Associates Scholarship
     content: Dissertation research funded through this grant.
-  - icon: ion-ios-star-outline
-    name: Branding
+  - icon: ion-ribbon-b
+    name: Final Grant
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
