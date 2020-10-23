@@ -63,7 +63,7 @@ features:
   - icon: ion-ios-list
     name: Cowles Foundation Fellowship
     content: Additional graduate funding provided by the Cowles Foundation
-  - icon: ion-ios-paper-outline
+  - icon: ion-ios-paper
     name: Nathan Hale Associates Scholarship
     content: Dissertation research funded through this grant.
   - icon: ion-ribbon-b
