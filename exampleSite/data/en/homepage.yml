@@ -56,6 +56,9 @@ service:
   - icon: ion-android-bicycle
     name: Biking
     content: ''
+  - name: Coffee
+    content: ''
+    icon: ion-coffee
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
