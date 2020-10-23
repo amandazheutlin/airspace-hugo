@@ -58,9 +58,9 @@ features:
     content: International Dissertation Fellowship awarded for travel to Quito to
       collaborate with the Tax Authority and lead a data science workshop for policy
       professionals
-  - icon: ion-ios-game-controller-b-outline
-    name: 'Another funding source? '
-    content: More money!
+  - icon: ion-ios-bookmarks
+    name: James Tobin Grant for Graduate Research
+    content: ''
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
