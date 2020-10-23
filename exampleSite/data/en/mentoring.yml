@@ -4,15 +4,10 @@ about:
   image: "/images/06-lucas-zavala.jpg"
   title: Graduate Application International Network
   description: Executive Director, 2020-present, University of Zurich
-  content: The Graduate Application International Network (GAIN) is a young initiative
-    founded at the University of Zurich in 2019 to support African talent to apply
-    for excellent graduate programs (both Master and PhD) in economics and other social
-    sciences. After a pilot in collaboration with Innovations for Poverty Action (IPA)
-    Kenya last year, we have now expanded to Uganda, Liberia, Sierra Leone, Burkina
-    Faso, Côte d’Ivoire, Senegal, Ghana, and Tanzania for this year’s edition. Our
-    program entails a webinar series covering different topics around graduate applications,
-    one-on-one mentoring during the application phase, as well as financial support
-    to cover application and test fees.
+  content: |-
+    The Graduate Application International Network (GAIN) is an initiative founded at the University of Zurich to create a pipeline for African students to access graduate programs in economics. After a pilot in collaboration with Innovations for Poverty Action (IPA) Kenya in 2019, we have expanded to eight countries in East and West Africa in 2020. Our program entails a webinar series to demystify the application process, one-on-one mentoring to help them complete the process, and financial support for application and test fees.
+
+    As Executive Director, I oversee a team of six people. Together, we organized webinars attended by dozens of applicants, recruited and matched mentors from top PhD programs, helped secure over $100,000 to fund application and test fees, and developed new international partnerships for the future.
   button:
     enable: true
     label: GAIN Website
