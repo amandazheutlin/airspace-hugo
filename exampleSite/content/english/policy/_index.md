@@ -1,6 +1,6 @@
 ---
 title: Policy
 description: ''
-bg_image: "/images/2018_pnw.JPG"
+bg_image: "/images/dc_capitol_edit.jpg"
 
 ---
