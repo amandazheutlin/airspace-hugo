@@ -4,8 +4,8 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.service.about.enable }}
-{{ with $data.service.about }}
+{{ if $data.teaching.about.enable }}
+{{ with $data.teaching.about }}
 <section class="service-about section">
   <div class="container">
     <div class="row">
@@ -32,8 +32,8 @@
 {{ end }}
 {{ end }}
 
-{{ if $data.service.featured_service.enable }}
-{{ with $data.service.featured_service }}
+{{ if $data.teaching.featured_service.enable }}
+{{ with $data.teaching.featured_service }}
 <section class="service-arrow">
   <div class="container-fluid">
     <div class="row">
@@ -53,13 +53,13 @@
 {{ end }}
 
 <!-- Service -->
-{{ if $data.service.service.enable }}
+{{ if $data.teaching.service.enable }}
 {{ partial "service.html" . }}
 {{ end }}
 <!-- /service -->
 
 <!-- Call to action -->
-{{ if $data.service.cta.enable }}
+{{ if $data.teaching.cta.enable }}
 {{ partial "cta.html" . }}
 {{ end }}
 <!-- /Call to action -->
