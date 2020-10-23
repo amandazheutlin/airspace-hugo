@@ -53,6 +53,9 @@ service:
   - name: Bird Watching
     content: ''
     icon: ion-ios-glasses-outline
+  - icon: ion-android-bicycle
+    name: Biking
+    content: ''
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
