@@ -1,6 +1,6 @@
 ---
 title: Mentoring
 description: ''
-bg_image: "/images/img_9043.JPG"
+bg_image: "/images/2018_pnw5.jpg"
 
 ---
