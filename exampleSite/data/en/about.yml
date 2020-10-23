@@ -53,10 +53,11 @@ features:
     name: National Science Foundation
     content: Graduate funding was provided through the Graduate Research Fellowship
       Program
-  - icon: ion-ios-unlocked-outline
-    name: Yale Policy Thing?
-    content: Funding for travel to Quito, Ecuador to collaborate with the Dept of
-      Y and lead a programming workshop
+  - icon: ion-earth
+    name: MacMillan Center
+    content: International Dissertation Fellowship awarded for travel to Quito to
+      collaborate with the Tax Authority and lead a data science workshop for policy
+      professionals
   - icon: ion-ios-game-controller-b-outline
     name: 'Another funding source? '
     content: More money!
