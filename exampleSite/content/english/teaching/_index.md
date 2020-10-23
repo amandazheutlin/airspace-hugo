@@ -1,6 +1,6 @@
 ---
 title: Teaching
 description: ''
-bg_image: "/images/2017_wellesley_foliage3.jpg"
+bg_image: "/images/2018_pnw3.jpg"
 
 ---
