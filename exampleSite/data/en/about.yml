@@ -49,7 +49,7 @@ features:
   enable: true
   title: Collaborators & Funding
   feature_item:
-  - icon: ion-ios-color-filter-outline
+  - icon: ion-android-bulb
     name: National Science Foundation
     content: Graduate funding was provided through the Graduate Research Fellowship
       Program
