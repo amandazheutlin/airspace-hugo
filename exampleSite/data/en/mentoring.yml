@@ -45,9 +45,15 @@ about2:
   image: "/images/img_1228.JPG"
   title: Herb Scarf Summer Research Program
   description: Co-Director, 2017-2019, Yale University
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, neque!
+  content: "Herb Scarf Summer Research Opportunities in Economics (HSSRO) is a program
+    designed to give Yale undergraduates a chance to explore a career in economic
+    research. Students work closely with professors on every aspect of the research
+    process, from data collection to coding to writing. The program curriculum includes
+    a seminar series by Yale faculty and graduate students, a six-week workshop in
+    statistical programming and research skills, and social events to foster an active
+    community. \n\nIn 2017, I took over as Graduate Director to create this curriculum
+    and transform the program from a collection of summer jobs into a comprehensive
+    pre-doctoral experience. "
   button:
     enable: true
     label: SCARF Website
