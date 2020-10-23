@@ -18,10 +18,10 @@ about:
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
-    name: Participating Students
+    name: Successful Mentor-Student Matches
     count: "50"
   - icon: ion-ios-flame-outline
-    name: 'Participating '
+    name: ''
     count: "35000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
