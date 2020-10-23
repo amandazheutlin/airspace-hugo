@@ -16,7 +16,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: 'Policy Publications '
+  - name: Chapter at the World Bank
     icon: ion-erlenmeyer-flask
     color: primary
     content: I was commissioned to write a chapter by the World Bank.
