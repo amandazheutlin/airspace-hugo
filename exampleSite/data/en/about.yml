@@ -60,7 +60,7 @@ features:
   - icon: ion-ios-bookmarks
     name: James Tobin Grant for Graduate Research
     content: ''
-  - icon: ion-ios-folder
+  - icon: ion-ios-list
     name: Cowles Foundation Fellowship
     content: Additional graduate funding provided by the Cowles Foundation
   - icon: ion-ios-lightbulb-outline
