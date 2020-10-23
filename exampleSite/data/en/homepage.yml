@@ -50,6 +50,9 @@ service:
   service_item:
   - icon: ion-ios-football
     name: Intramural Sports
+  - name: Bird Watching
+    content: ''
+    icon: ion-ios-glasses-outline
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
