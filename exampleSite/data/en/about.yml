@@ -60,10 +60,9 @@ features:
   - icon: ion-ios-bookmarks
     name: James Tobin Grant for Graduate Research
     content: ''
-  - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-folder
+    name: Cowles Foundation Fellowship
+    content: Additional graduate funding provided by the Cowles Foundation
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
