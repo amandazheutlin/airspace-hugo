@@ -20,9 +20,9 @@ about:
   - icon: ion-ios-flame-outline
     name: Successful Mentor-Student Matches
     count: "50"
-  - icon: ion-ios-flame-outline
-    name: ''
-    count: "35000"
+  - icon: ion-cash
+    name: Grant Funding Awarded
+    count: "$110000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
