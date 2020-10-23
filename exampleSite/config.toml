@@ -20,7 +20,7 @@ URL = "policy"
 name = "Policy"
 weight = 2
 [[Languages.en.menu.footer]]
-URL = "service"
+URL = "teaching"
 name = "Teaching"
 weight = 3
 [[Languages.en.menu.footer]]
@@ -44,7 +44,7 @@ URL = "policy"
 name = "Policy"
 weight = 3
 [[Languages.en.menu.main]]
-URL = "service"
+URL = "teaching"
 name = "Teaching"
 weight = 4
 [[Languages.en.menu.main]]
