@@ -46,6 +46,10 @@ mentorship:
     link: mentoring
 service:
   enable: true
+  title: Other Activities
+  service_item:
+  - icon: ion-ios-football
+    name: Intramural Sports
 cta:
   enable: true
   bg_image: "/images/2018_chalten.jpg"
