@@ -2,16 +2,16 @@
 about:
   enable: true
   title: Decision Making with Data
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  content: "We designed this course to give students a chance to use statistics in
+    real-world settings. Each week, we give them a case study asking an open-ended
+    question within a particular industry. Using real-world data and the statistical
+    tools they learned in core courses, they work in teams to design an answer and
+    present it to a potential client. In addition to reviewing key theoretical concepts
+    such as OLS regression, we teach students practical skills such as statistical
+    programming and data visualization.\n\nTogether with my advisor, Peter Schott,
+    I have developed this course over the past three years, creating a new case study
+    each year, lectures on statistical programming in R, and a practical guide to
+    data analysis and visualization. "
   image: "/images/preview-full-evans_hall-1024x598.jpg"
   description: Yale School of Management, 2019-2021
   button:
