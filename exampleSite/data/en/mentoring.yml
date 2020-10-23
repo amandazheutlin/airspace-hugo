@@ -23,7 +23,7 @@ about:
   - icon: ion-cash
     name: Grant Funding Awarded
     count: "$110000"
-  - icon: ion-android-create
+  - icon: ion-edit
     name: GRE Exams Covered
     count: "70"
   - icon: ion-ios-wineglass-outline
