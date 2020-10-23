@@ -17,7 +17,7 @@ about:
     label: CV
     link: "#"
   funfacts:
-  - icon: ion-ios-flask-outline
+  - icon: ion-ios-flame-outline
     name: Successful Mentor-Student Matches
     count: "50"
   - icon: ion-ios-flame-outline
