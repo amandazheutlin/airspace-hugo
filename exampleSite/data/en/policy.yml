@@ -27,7 +27,8 @@ featured_service:
   - name: Data Science Workshop for Policy Professionals
     icon: ion-lightbulb
     color: primary-darker
-    content: Created and taught policy workshop in R for research team in Ecuador.
+    content: Created and taught a workshop for analysis of tax records in R for research
+      team in Ecuador.
 service:
   enable: false
   title: Other Interests
