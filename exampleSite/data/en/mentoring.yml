@@ -18,16 +18,16 @@ about:
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
-    name: Participating Mentors
+    name: Participating Students
     count: "50"
   - icon: ion-ios-flame-outline
-    name: Lines Of Code
+    name: 'Participating '
     count: "35000"
   - icon: ion-ios-pint-outline
     name: Satisfied Customer
     count: "70"
   - icon: ion-ios-wineglass-outline
-    name: Awards Winner
+    name: Participating Mentors
     count: "10"
   - icon: ion-ios-chatboxes-outline
     name: Satisfied Customer
