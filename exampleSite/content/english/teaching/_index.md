@@ -1,6 +1,6 @@
 ---
 title: Teaching
 description: ''
-bg_image: "/images/2018_pnw3.jpg"
+bg_image: "/images/preview-full-evans_hall-1024x598.jpg"
 
 ---
