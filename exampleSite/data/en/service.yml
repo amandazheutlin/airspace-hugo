@@ -21,11 +21,11 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: 'Case: MeToo & Sex Crime Reporting '
+  - name: 'Case: MeToo & Sexual Crimes'
     icon: ion-erlenmeyer-flask
     color: primary
-    content: A global investigation of shifts in sexual assault and harassment reporting
-      as a result of the MeToo movement.
+    content: 'Uses data from the NYPD to investigate whether the MeToo movement led
+      to more reporting of sexual crimes. '
   - name: 'Case: Common Ownership of Airlines'
     icon: ion-leaf
     color: primary-dark
