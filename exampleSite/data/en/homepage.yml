@@ -59,7 +59,7 @@ service:
     content: ''
     icon: ion-coffee
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/2018_chalten.jpg"
   title: ''
   content: ''
