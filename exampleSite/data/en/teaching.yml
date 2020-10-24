@@ -31,7 +31,7 @@ featured_service:
     color: primary-dark
     content: 'Uses data on airlines and institutional investors to see if mergers
       between hedge funds increase ticket prices. '
-  - name: 'Case: BLM & Minority-Owned Businesses'
+  - name: 'Case: BLM & Minority Businesses'
     icon: ion-lightbulb
     color: primary-darker
     content: Uses data from Instagram to examine how recent protests impacted engagement
