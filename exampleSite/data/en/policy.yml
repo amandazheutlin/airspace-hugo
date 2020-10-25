@@ -23,10 +23,11 @@ featured_service:
     color: primary
     content: I was commissioned by the World Bank Group to write this chapter included
       in their Ecuador Trade and Investment Competitiveness Report.
-  - name: Policy Research
-    icon: ion-leaf
+  - name: Export Promotion and Firm Entry into and Survival in Export Markets
+    icon: ion-flash
     color: primary-dark
-    content: Paper from World Bank
+    content: I contributed analysis and field work to this paper with Daniel Lederman
+      and Marcelo Olarreaga; published 2016, Canadian Journal of Development Studies.
   - name: Data Science Workshop for Policy Professionals
     icon: ion-lightbulb
     color: primary-darker
