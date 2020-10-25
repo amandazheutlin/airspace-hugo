@@ -17,10 +17,12 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Chapter at the World Bank
-    icon: ion-erlenmeyer-flask
+  - name: Impact of the Pacific Alliance Agreement on the Competitiveness of Ecuadorian
+      Firms
+    icon: ion-arrow-swap
     color: primary
-    content: I was commissioned to write a chapter by the World Bank.
+    content: I was commissioned by the World Bank Group to write this chapter included
+      in their Ecuador Trade and Investment Competitiveness Report.
   - name: Policy Research
     icon: ion-leaf
     color: primary-dark
