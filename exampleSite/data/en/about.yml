@@ -38,7 +38,7 @@ about2:
     channel and a competition channel. Although higher quality explains most of the
     price increase, lower competition still plays an important role.
   button:
-    enable: true
+    enable: false
     label: Abstract
     link: "#"
   button2:
