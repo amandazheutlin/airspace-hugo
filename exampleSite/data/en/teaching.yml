@@ -27,7 +27,7 @@ featured_service:
     content: 'Uses data from the NYPD to investigate whether the MeToo movement led
       to more reporting of sexual crimes. '
   - name: 'Case: Common Ownership of Airlines'
-    icon: ion-leaf
+    icon: ion-plane
     color: primary-dark
     content: 'Uses data on airlines and institutional investors to see if mergers
       between hedge funds increase ticket prices. '
