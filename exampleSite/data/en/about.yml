@@ -17,7 +17,7 @@ about:
   button:
     enable: true
     label: Job Market Paper
-    link: "#"
+    link: https://dl.dropboxusercontent.com/s/o8ez4kjmpo5a6mg/JMP.pdf?dl=0
   button2:
     enable: true
     label: CV
