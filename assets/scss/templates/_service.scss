@@ -98,10 +98,16 @@
       color: $light;
     }
   }
+	
   .row-equal {
     display: flex;
     display: -webkit-flex;
     flex-wrap: wrap;
+  }
+	
+  .row-equal > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
   }
 }
 
