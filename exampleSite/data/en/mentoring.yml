@@ -9,7 +9,7 @@ about:
 
     As Executive Director, I oversee a team of six people. Together, we organized webinars attended by dozens of applicants, recruited and matched mentors from top PhD programs, helped secure over $100,000 to fund application and test fees, and developed new international partnerships for the future.
   button:
-    enable: true
+    enable: false
     label: GAIN Website
     link: "#"
   button2:
