@@ -21,7 +21,7 @@ about:
   button2:
     enable: true
     label: CV
-    link: "/images/lucas_zavala_cv_template_edited.pdf"
+    link: https://dl.dropboxusercontent.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?dl=0
 about2:
   enable: true
   image: "/images/import-value-growth-vs-ntm-growth-3-year-ma.png"
