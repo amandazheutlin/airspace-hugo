@@ -27,7 +27,8 @@ featured_service:
     icon: ion-flash
     color: primary-dark
     content: I contributed analysis and field work to this paper with Daniel Lederman
-      and Marcelo Olarreaga; published 2016, Canadian Journal of Development Studies.
+      and Marcelo Olarreaga; published in Canadian Journal of Development Studies,
+      2016.
   - name: Data Science Workshop for Policy Professionals
     icon: ion-ios-monitor
     color: primary-darker
