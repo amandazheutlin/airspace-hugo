@@ -32,8 +32,8 @@ featured_service:
   - name: Data Science Workshop for Policy Professionals
     icon: ion-ios-monitor
     color: primary-darker
-    content: I created and taught a workshop for analysis of tax records in R for
-      the research team at the Tax Authority in Quito, Ecuador.
+    content: I created and taught a week-long workshop for conducting analysis of
+      tax records in R for the research team at the Tax Authority in Quito, Ecuador.
 service:
   enable: false
   title: Other Interests
