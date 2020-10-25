@@ -29,7 +29,7 @@ featured_service:
     content: I contributed analysis and field work to this paper with Daniel Lederman
       and Marcelo Olarreaga; published 2016, Canadian Journal of Development Studies.
   - name: Data Science Workshop for Policy Professionals
-    icon: ion-lightbulb
+    icon: ion-ios-monitor
     color: primary-darker
     content: I created and taught a workshop for analysis of tax records in R for
       the research team at the Tax Authority in Quito, Ecuador.
