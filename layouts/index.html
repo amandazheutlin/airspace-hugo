@@ -37,6 +37,7 @@
           <div class="section-title">
             <h2>{{ .title | markdownify }}</h2>
             <p>{{ .description | markdownify }}</p>
+            <p>{{ .description2 | markdownify }}</p>
           </div>
           <p>{{ .content | markdownify }}</p>
           {{ if .button.enable }}
