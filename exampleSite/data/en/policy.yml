@@ -11,8 +11,9 @@ about:
   image: "/images/f5322176-7377-4ed8-85e1-de761f99cd98.JPG"
   description: ''
   button:
-    enable: false
-    label: Course Syllabus
+    enable: true
+    label: Related Press Article
+    link: https://clais.macmillan.yale.edu/news/export-supply-chains-ecuador
 featured_service:
   enable: true
   service_item:
