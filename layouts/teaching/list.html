@@ -19,7 +19,7 @@
         <div class="section-title">
         <p>{{ .description | markdownify }}</p>
         </div>
-        <p class="margin-0">{{ .content | markdownify }}</p> 
+        <p class="mt-30">{{ .content | markdownify }}</p> 
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
