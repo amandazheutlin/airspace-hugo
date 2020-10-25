@@ -98,6 +98,10 @@
       color: $light;
     }
   }
+  .row-equal {
+    display: flex;
+    flex-wrap: wrap;
+  }
 }
 
 
