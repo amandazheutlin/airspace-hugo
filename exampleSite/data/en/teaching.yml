@@ -22,7 +22,7 @@ featured_service:
   enable: true
   service_item:
   - name: 'Case: MeToo & Sexual Crimes'
-    icon: ion-erlenmeyer-flask
+    icon: ion-android-alarm-clock
     color: primary
     content: 'Uses data from the NYPD to investigate whether the MeToo movement led
       to more reporting of sexual crimes. '
