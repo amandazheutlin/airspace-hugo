@@ -12,6 +12,7 @@
       <div class="col-md-6">
         <div class="about-img">
           <img class="img-responsive" src="{{ .image | relURL }}">
+          <div class="caption-bottom-left">{{ .caption | markdownify }}</div>
         </div>
       </div>
       <div class="col-md-6">
