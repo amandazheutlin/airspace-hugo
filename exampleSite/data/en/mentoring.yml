@@ -21,17 +21,17 @@ about:
     name: Successful Mentor-Student Matches
     count: "42"
   - icon: ion-cash
-    name: "$1000s Awarded in Grant Funding"
+    name: "$1000s Awarded in Grants"
     count: "170"
-  - icon: ion-ios-compose
-    name: Application Fees Covered
-    count: "378"
-  - icon: ion-grid
-    name: Mentor Institutions Worldwide
-    count: "24"
   - icon: ion-earth
     name: Student Countries
     count: "9"
+  - icon: ion-grid
+    name: Mentor Institutions Worldwide
+    count: "24"
+  - icon: ion-ios-compose
+    name: Application Fees Covered
+    count: "378"
   - icon: ion-arrow-graph-up-right
     name: Fold Increase in Students since 2019
     count: "10"
