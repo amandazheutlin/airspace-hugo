@@ -50,9 +50,8 @@ features:
   title: Research Funding & Grants
   feature_item:
   - icon: ion-android-bulb
-    name: National Science Foundation
-    content: Graduate funding was provided through the Graduate Research Fellowship
-      Program
+    name: National Science Foundation Graduate Research Fellowship
+    content: 2017-2020
   - icon: ion-earth
     name: MacMillan Center International Dissertation Fellowship
     content: Funded travel to Quito to collaborate with the Ecuador Tax Authority
