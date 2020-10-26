@@ -49,16 +49,16 @@ features:
   enable: true
   title: Research Funding & Grants
   feature_item:
-  - icon: ion-earth
-    name: MacMillan Center International Dissertation Fellowship
-    content: Funding for travel to Quito to collaborate with the Ecuador Tax Authority
-      (2019)
   - icon: ion-ios-bookmarks
     name: 'James Tobin Grant for Graduate Research '
     content: Funding for an undergrad research assistant (2020)
   - icon: ion-ribbon-b
     name: Economic Growth Center Grant
     content: Funded an undergraduate research assistant (2021)
+  - icon: ion-earth
+    name: MacMillan Center International Dissertation Fellowship
+    content: Funding for travel to Quito to collaborate with the Ecuador Tax Authority
+      (2019)
   - icon: ion-android-bulb
     name: National Science Foundation Graduate Research Fellowship
     content: 2017-2020
