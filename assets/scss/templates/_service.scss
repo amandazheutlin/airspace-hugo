@@ -97,7 +97,15 @@
     i {
       font-size: 40px;
     }
-
+	  
+    a,
+    a:focus,
+    a:hover {
+  	text-decoration: none;
+  	outline: 0;
+  	color: $light;
+    }
+	  
     p {
       color: $light;
     }
