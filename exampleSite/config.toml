@@ -178,8 +178,5 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 icon = "ion-ios-email-outline"
 link = "mailto:lucas.zavala@yale.edu"
 [[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/lucas_zavala"
