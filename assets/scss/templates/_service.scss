@@ -9,13 +9,10 @@
       font-size: 60px;
       color: $primary-color;
     }
-
-    a,
-    a:focus,
-    a:hover {
-      text-decoration: none;
-      color: $light;
-    }
+    
+    .link-title {
+	    color: $light;
+       }
 	  
     h4 {
       padding-top: 15px;
