@@ -10,7 +10,9 @@
       color: $primary-color;
     }
 
-    a {
+    a,
+    a:focus,
+    a:hover {
       color: $light;
     }
 	  
