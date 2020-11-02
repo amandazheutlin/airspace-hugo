@@ -19,17 +19,20 @@ featured_service:
   service_item:
   - name: Impact of the Pacific Alliance Agreement on the Competitiveness of Ecuadorian
       Firms
+    link:
     icon: ion-arrow-swap
     color: primary
     content: I was commissioned to write a chapter for the World Bank's Ecuador Trade
       and Investment Competitiveness Report, 2019.
   - name: Export Promotion and Firm Entry into and Survival in Export Markets
+    link:
     icon: ion-flash
     color: primary-dark
     content: I contributed analysis and field work to this paper with Daniel Lederman
       and Marcelo Olarreaga; published in Canadian Journal of Development Studies,
       2016.
   - name: Data Science Workshop for Policy Professionals
+    link:
     icon: ion-ios-monitor
     color: primary-darker
     content: I created and taught a week-long workshop for conducting analysis of
