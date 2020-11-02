@@ -180,3 +180,6 @@ link = "mailto:lucas.zavala@yale.edu"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "https://twitter.com/lucas_zavala"
+[[params.social]]
+icon = "ion-university"
+link = "https://economics.yale.edu/graduate-program"
