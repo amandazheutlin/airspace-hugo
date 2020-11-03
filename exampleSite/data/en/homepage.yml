@@ -4,7 +4,7 @@ banner:
   bg_image: "/images/img_2142.jpg"
   bg_overlay: false
   title: Lucas Zavala
-  content: lucas.zavala@yale.edu
+  content: lucas.zavala
   button:
     enable: true
     label: CV
