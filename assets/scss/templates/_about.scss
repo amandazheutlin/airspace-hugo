@@ -13,6 +13,11 @@
 			width: 100%;
 		}
 	}
+	.research-img {
+		img {
+			opacity: .6;
+		}
+	}
 	.about-img {
 		overflow:hidden;
 		&:hover img {
