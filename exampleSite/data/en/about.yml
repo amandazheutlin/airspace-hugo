@@ -20,9 +20,9 @@ about:
     label: Job Market Paper
     link: https://www.dropbox.com/s/o8ez4kjmpo5a6mg/JMP.pdf?raw=1
   button2:
-    enable: false
+    enable: true
     label: CV
-    link: https://dl.dropboxusercontent.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?dl=0
+    link: https://www.dropbox.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?raw=1
 about2:
   enable: true
   image: "/images/import-value-growth-vs-ntm-growth-3-year-ma-edited.png"
