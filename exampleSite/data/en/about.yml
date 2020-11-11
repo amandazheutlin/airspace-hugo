@@ -17,7 +17,7 @@ about:
     power.
   button:
     enable: true
-    label: Job Market Paper
+    label: JMP
     link: https://www.dropbox.com/s/o8ez4kjmpo5a6mg/JMP.pdf?raw=1
   button2:
     enable: true
