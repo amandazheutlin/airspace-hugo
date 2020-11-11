@@ -7,6 +7,10 @@ banner:
   content: lucas.zavala<span></span>@yale.edu
   button:
     enable: true
+    label: JMP
+    link: 
+  button2:
+    enable: true
     label: CV
     link: https://www.dropbox.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?raw=1
 about:
