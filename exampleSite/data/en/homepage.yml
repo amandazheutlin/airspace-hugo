@@ -6,7 +6,7 @@ banner:
   title: Lucas Zavala
   content: lzavala<span></span>@princeton.edu
   button:
-    enable: true
+    enable: false
     label: JMP
     link: https://www.dropbox.com/s/o8ez4kjmpo5a6mg/JMP.pdf?raw=1
   button2:
