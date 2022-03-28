@@ -4,7 +4,7 @@ about:
   image: "/images/scatter_farmshare_marketshare_edited.png"
   caption: ''
   title: 'Unfair Trade: Market Power in Agricultural Value Chains'
-  description: Job Market Paper
+  description: Under Review.
   content: I show that market power among exporters is a key driver of low farmer
     income in agricultural value chains. Using novel microdata from Ecuador, I document
     low farmer income and high exporter concentration across a wide range of crops.
@@ -17,10 +17,10 @@ about:
     power.
   button:
     enable: true
-    label: JMP
+    label: Paper
     link: https://www.dropbox.com/s/o8ez4kjmpo5a6mg/JMP.pdf?raw=1
   button2:
-    enable: true
+    enable: false
     label: CV
     link: https://www.dropbox.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?raw=1
 about2:
