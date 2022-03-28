@@ -26,19 +26,21 @@ about:
 about2:
   enable: true
   image: "/images/import-value-growth-vs-ntm-growth-3-year-ma-edited.png"
-  title: 'More than a Technicality: Technical Barriers to Trade and International
-    Market Structure'
+  title: Trade Barriers, Producer Concentration, and Consumer Welfare
   description: with Ana Fernandes, Ryan Haygood, Tristan Reed, Daniel Reyes. Draft
     coming soon!
-  content: We examine how technical barriers to trade shape the structure of international
-    markets. We construct the first dataset combining firm-level data on the universe
-    of importers and exporters across seven Latin American countries and market-level
-    data on all technical barriers affecting those markets over 20 years. At the market-level,
-    we show that following the introduction of a new restriction, the export side
-    of the market becomes more concentrated relative to the import side, and import
-    prices rise. Using the firm-level data, we decompose the price change into a quality
-    channel and a competition channel. Although higher quality explains most of the
-    price increase, lower competition still plays an important role.
+  content: Following the secular decline in tariff rates over the past 20 years, non-tariff
+    measures (NTMs) such as import quotas and product standards have become an increasingly
+    prevalent tool for implementing import substitution policies in  emerging economies.
+    We examine how NTMs  shape  market  structure  and  welfare  in international
+    and domestic markets. We construct the first dataset combining information on
+    importers and exporters; domestic producers and consumers; and the tariffs and
+    NTMs that restrict trade in Latin America. We show that border prices rise following
+    the  implementation of  a new NTM  and import markets become more concentrated.
+    Using a model of imperfect competition, we then decompose these effects into quality
+    and markup channels. Finally, we collect CPI and PPI microdata to examine how
+    domestic markets respond. Together, these results shed light on the welfare consequences
+    of import substitution policies.
   button:
     enable: false
     label: Draft coming soon
