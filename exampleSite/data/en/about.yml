@@ -51,42 +51,25 @@ about2:
     link: "#"
 about3:
   enable: true
-  image: "/images/import-value-growth-vs-ntm-growth-3-year-ma-edited.png"
-  title: 'More than a Technicality: Technical Barriers to Trade and International
-    Market Structure'
-  description: Work in Progress, with Ana Fernandes and Daniel Reyes
-  content: We examine how technical barriers to trade shape the structure of international
-    markets. We construct the first dataset combining firm-level data on the universe
-    of importers and exporters across seven Latin American countries and market-level
-    data on all technical barriers affecting those markets over 20 years. At the market-level,
-    we show that following the introduction of a new restriction, the export side
-    of the market becomes more concentrated relative to the import side, and import
-    prices rise. Using the firm-level data, we decompose the price change into a quality
-    channel and a competition channel. Although higher quality explains most of the
-    price increase, lower competition still plays an important role.
+  image: ''
+  title: Organic Certification and Export Performance
+  description: 'with Tomás Lisazo, Ignacio Marra de Artiñano, Gabriel Scattolo, and
+    Christian Volpe Martincus. Work in progress. '
+  content: ''
   button:
-    enable: false
-    label: Abstract
-    link: "#"
+    enable: true
+    label: Blog
+    link: https://blogs.iadb.org/integration-trade/en/why-agricultural-exporters-should-consider-organic-certifications/
   button2:
     enable: false
     label: CV
     link: "#"
 about4:
   enable: true
-  image: "/images/import-value-growth-vs-ntm-growth-3-year-ma-edited.png"
-  title: 'More than a Technicality: Technical Barriers to Trade and International
-    Market Structure'
-  description: Work in Progress, with Ana Fernandes and Daniel Reyes
-  content: We examine how technical barriers to trade shape the structure of international
-    markets. We construct the first dataset combining firm-level data on the universe
-    of importers and exporters across seven Latin American countries and market-level
-    data on all technical barriers affecting those markets over 20 years. At the market-level,
-    we show that following the introduction of a new restriction, the export side
-    of the market becomes more concentrated relative to the import side, and import
-    prices rise. Using the firm-level data, we decompose the price change into a quality
-    channel and a competition channel. Although higher quality explains most of the
-    price increase, lower competition still plays an important role.
+  image: ''
+  title: Market Power in Global Agricultural Trade
+  description: Work in Progress.
+  content: ''
   button:
     enable: false
     label: Abstract
