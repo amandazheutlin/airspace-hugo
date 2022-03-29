@@ -74,7 +74,13 @@ about4:
   image: "/images/screen-shot-2022-03-29-at-3-31-18-pm.png"
   title: Market Power in Global Agricultural Trade
   description: Work in progress.
-  content: ''
+  content: 'Global agricultural markets are dominated by large exporters, who can
+    exercise market power over small farmers. I develop a simple model where the concentration
+    of exporter sales, together with the sensitivity of crop choices to crop prices,
+    is a sufficient statistic for market power. I construct the former using data
+    from the World Bank and estimate the latter using data from the Food and Agriculture
+    Organization. Together with the model, these data allow me to measure market power
+    across all exported crops in more than 50 emerging markets. '
   button:
     enable: false
     label: Abstract
