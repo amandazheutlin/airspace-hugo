@@ -18,7 +18,7 @@ about:
     link: "#"
   funfacts:
   - icon: ion-android-people
-    name: Mentor-Student Matches
+    name: Students Mentored by Research Professionals
     count: "115"
   - icon: ion-cash
     name: "$1000s Awarded in Grants"
@@ -30,11 +30,11 @@ about:
     name: Mentor Institutions Worldwide
     count: "60"
   - icon: ion-ios-compose
-    name: Application Fees Covered
-    count: "378"
+    name: Students Accepted to Graduate School
+    count: "45"
   - icon: ion-arrow-graph-up-right
-    name: Fold Increase in Students since 2019
-    count: "10"
+    name: Students Completed Online Course
+    count: "260"
 about2:
   enable: true
   image: "/images/img_1228.JPG"
