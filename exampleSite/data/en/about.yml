@@ -55,10 +55,15 @@ about3:
   title: Organic Certification and Export Performance
   description: 'with Tomás Lisazo, Ignacio Marra de Artiñano, Gabriel Scattolo, and
     Christian Volpe Martincus. Work in progress. '
-  content: ''
+  content: 'Consumers love to buy organic, but what does selling organic mean for
+    producers and distributors? We match organic certifications from the USDA with
+    firm-level customs data from Latin America. We estimate the impact of organic
+    certification on export performance and decompose it into several channels. Finally,
+    we examine spillovers to non-certified products within the firm and spillovers
+    to non-certified firms.  '
   button:
     enable: true
-    label: Blog
+    label: Blog post
     link: https://blogs.iadb.org/integration-trade/en/why-agricultural-exporters-should-consider-organic-certifications/
   button2:
     enable: false
