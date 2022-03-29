@@ -83,14 +83,13 @@ features:
   title: Research Funding & Grants
   feature_item:
   - icon: ion-ios-bookmarks
-    name: Structural Transformation and Economic Growth Small Research Grant (STEG
-      SRG)
+    name: Structural Transformation and Economic Growth (STEG)
     content: '"Trade Barriers" (2022)'
   - icon: ion-stats-bars
     name: PREDOC RA Award Program
     content: '"Global Agricultural Trade" (2022)'
   - icon: ion-ribbon-b
-    name: Ryoichi Sasakawa Young Leaders Fellowship Fund Grant (SYLFF)
+    name: Ryoichi Sasakawa Young Leaders Fellowship Fund (SYLFF)
     content: '"Trade Barriers" (2021)'
   - icon: ion-ios-gear
     name: James Tobin Grant for Graduate Research
@@ -99,7 +98,7 @@ features:
     name: MacMillan Center International Dissertation Fellowship
     content: '"Unfair Trade" (2019)'
   - icon: ion-android-bulb
-    name: National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
+    name: National Science Foundation Graduate Research Fellowship
     content: 2017-2020
 testimonial:
   enable: false
