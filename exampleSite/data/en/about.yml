@@ -4,7 +4,7 @@ about:
   image: "/images/screen-shot-2022-03-29-at-11-19-50-am.png"
   caption: ''
   title: 'Unfair Trade: Market Power in Agricultural Value Chains'
-  description: Under Review.
+  description: Under review.
   content: I show that market power among exporters is a key driver of low farmer
     income in agricultural value chains. Using novel microdata from Ecuador, I document
     low farmer income and high exporter concentration across a wide range of crops.
@@ -68,7 +68,7 @@ about4:
   enable: true
   image: "/images/screen-shot-2022-03-29-at-11-41-00-am.png"
   title: Market Power in Global Agricultural Trade
-  description: Work in Progress.
+  description: Work in progress.
   content: ''
   button:
     enable: false
