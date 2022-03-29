@@ -17,24 +17,24 @@ about:
     label: CV
     link: "#"
   funfacts:
+  - icon: ion-arrow-graph-up-right
+    name: Students Completed Online Course
+    count: "260"
   - icon: ion-android-people
     name: Students Mentored by Research Professionals
     count: "115"
-  - icon: ion-cash
-    name: "$1000s Awarded in Grants"
-    count: "170"
+  - icon: ion-ios-compose
+    name: Students Accepted to Graduate School
+    count: "45"
   - icon: ion-earth
     name: Student Home Countries
     count: "20"
   - icon: ion-grid
     name: Mentor Institutions Worldwide
     count: "60"
-  - icon: ion-ios-compose
-    name: Students Accepted to Graduate School
-    count: "45"
-  - icon: ion-arrow-graph-up-right
-    name: Students Completed Online Course
-    count: "260"
+  - icon: ion-cash
+    name: "$1000s Awarded in Grants"
+    count: "170"
 about2:
   enable: true
   image: "/images/img_1228.JPG"
