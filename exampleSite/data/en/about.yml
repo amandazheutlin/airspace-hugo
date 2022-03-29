@@ -83,24 +83,24 @@ features:
   title: Research Funding & Grants
   feature_item:
   - icon: ion-ios-bookmarks
-    name: 'James Tobin Grant for Graduate Research '
-    content: Funding for an undergrad research assistant (2020)
+    name: Structural Transformation and Economic Growth Small Research Grant (STEG
+      SRG)
+    content: '"Trade Barriers" (2022)'
+  - icon: ion-stats-bars
+    name: PREDOC RA Award Program
+    content: '"Global Agricultural Trade" (2022)'
   - icon: ion-ribbon-b
-    name: Ryoichi Sasakawa Young Leaders Fellowship Fund Grant
-    content: Funded an undergraduate research assistant (2021)
+    name: Ryoichi Sasakawa Young Leaders Fellowship Fund Grant (SYLFF)
+    content: '"Trade Barriers" (2021)'
+  - icon: ion-ios-gear
+    name: James Tobin Grant for Graduate Research
+    content: '"Trade Barriers" (2020)'
   - icon: ion-earth
     name: MacMillan Center International Dissertation Fellowship
-    content: Funding for travel to Quito to collaborate with the Ecuador Tax Authority
-      (2019)
+    content: '"Unfair Trade" (2019)'
   - icon: ion-android-bulb
-    name: National Science Foundation Graduate Research Fellowship
+    name: National Science Foundation Graduate Research Fellowship Program (NSF GRFP)
     content: 2017-2020
-  - icon: ion-stats-bars
-    name: Nathan Hale Associates Scholarship
-    content: 2020-2021
-  - icon: ion-ios-gear
-    name: Cowles Foundation Fellowship
-    content: 2015-2019
 testimonial:
   enable: false
 mission_vision:
