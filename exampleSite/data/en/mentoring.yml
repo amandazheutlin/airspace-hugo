@@ -5,9 +5,9 @@ about:
   title: Graduate Application International Network
   description: Co-Director, 2020-present, University of Zurich
   content: |-
-    The Graduate Application International Network (GAIN) is an initiative founded at the University of Zurich to create a pipeline for African students to access graduate programs in economics. After a pilot in collaboration with Innovations for Poverty Action (IPA) Kenya in 2019, we expanded to a dozen countries in East and West Africa in 2020 and 2021. Our program entails a webinar series to demystify the application process, one-on-one mentoring to help them complete the process, and financial support for application and test fees.
+    The Graduate Application International Network (GAIN) is an initiative founded at the University of Zurich to create a pipeline for African students to access graduate programs in economics. After a pilot in collaboration with Innovations for Poverty Action (IPA) Kenya in 2019, we expanded across East and West Africa in 2020 and 2021. Our program entails a webinar series to demystify the application process, one-on-one mentoring to help them complete the process, and financial support for application and test fees.
 
-    As a Director, I oversee a team of six people. Together, we organized webinars attended by hundreds of applicants, recruited and matched mentors from top PhD programs, helped secure over $200,000 to fund application and test fees, and developed new international partnerships in academia.
+    As a Director, I oversee a team of six people. Together, we organize webinars attended by hundreds of applicants, recruit and match mentors from top PhD programs, secure grants to fund application and test fees, and develop new international partnerships in academia.
   button:
     enable: true
     label: GAIN Website
@@ -18,14 +18,14 @@ about:
     link: "#"
   funfacts:
   - icon: ion-android-people
-    name: Successful Mentor-Student Matches
-    count: "42"
+    name: Mentor-Student Matches
+    count: "115"
   - icon: ion-cash
     name: "$1000s Awarded in Grants"
-    count: "170"
+    count: "200"
   - icon: ion-earth
     name: Student Home Countries
-    count: "9"
+    count: "20"
   - icon: ion-grid
     name: Mentor Institutions Worldwide
     count: "24"
