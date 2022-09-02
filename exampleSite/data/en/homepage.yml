@@ -4,7 +4,7 @@ banner:
   bg_image: "/images/img_2142.jpg"
   bg_overlay: false
   title: Lucas Zavala
-  content: lzavala<span></span>@princeton.edu
+  content: lzavala<span></span>@worldbank.org
   button:
     enable: false
     label: JMP
