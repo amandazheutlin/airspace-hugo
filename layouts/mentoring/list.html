@@ -17,8 +17,9 @@
       <div class="col-md-6">
         <h2 class="mt-20">{{ .title | markdownify }}</h2>
         <div class="section-title">
-        <p>{{ .description | markdownify }}</p><br />
+        <p>{{ .description | markdownify }}</p>
         </div>
+        <div class ="section-title">
         {{ .content | markdownify }}
         {{ if .button.enable }}
         {{ with .button }}
