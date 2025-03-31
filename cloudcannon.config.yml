@@ -1,0 +1,232 @@
+_schema: _schema
+paths:
+  uploads: static/uploads
+  static: static
+collections_config:
+  content_english_about:
+    path: exampleSite/content/english/about
+    name: Content English About
+    icon: comments_disabled
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_author:
+    path: exampleSite/content/english/author
+    name: Content English Author
+    icon: content_cut
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_blog:
+    path: exampleSite/content/english/blog
+    name: Content English Blog
+    icon: comments_disabled
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_contact:
+    path: exampleSite/content/english/contact
+    name: Content English Contact
+    icon: connect_without_contact
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_faq:
+    path: exampleSite/content/english/faq
+    name: Content English Faq
+    icon: content_paste
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_mentoring:
+    path: exampleSite/content/english/mentoring
+    name: Content English Mentoring
+    icon: content_paste_go
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_policy:
+    path: exampleSite/content/english/policy
+    name: Content English Policy
+    icon: connecting_airports
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_pricing:
+    path: exampleSite/content/english/pricing
+    name: Content English Pricing
+    icon: content_paste_search
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_project:
+    path: exampleSite/content/english/project
+    name: Content English Project
+    icon: connecting_airports
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_service:
+    path: exampleSite/content/english/service
+    name: Content English Service
+    icon: home_repair_service
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_english_teaching:
+    path: exampleSite/content/english/teaching
+    name: Content English Teaching
+    icon: content_paste
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_about:
+    path: exampleSite/content/french/about
+    name: Content French About
+    icon: content_cut
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_author:
+    path: exampleSite/content/french/author
+    name: Content French Author
+    icon: content_cut
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_blog:
+    path: exampleSite/content/french/blog
+    name: Content French Blog
+    icon: content_copy
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_contact:
+    path: exampleSite/content/french/contact
+    name: Content French Contact
+    icon: connect_without_contact
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_faq:
+    path: exampleSite/content/french/faq
+    name: Content French Faq
+    icon: content_copy
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_pricing:
+    path: exampleSite/content/french/pricing
+    name: Content French Pricing
+    icon: content_copy
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_project:
+    path: exampleSite/content/french/project
+    name: Content French Project
+    icon: content_copy
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  content_french_service:
+    path: exampleSite/content/french/service
+    name: Content French Service
+    icon: content_paste_search
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data_en:
+    path: exampleSite/data/en
+    name: Data En
+    icon: dataset
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  data_fr:
+    path: exampleSite/data/fr
+    name: Data Fr
+    icon: dataset
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  i18n:
+    path: exampleSite/i18n
+    name: I18n
+    icon: iron
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  layouts/about:
+    path: layouts/about
+    glob:
+    name: layouts-about
+    singular_name:
+    icon: notes
+    url:
+    disable_url: false
+    include_developer_files:
+    documentation:
+    description:
+    preview:
+    sort:
+    sort_options:
+    _editables:
+    _enabled_editors:
+    _inputs:
+    _select_data:
+    _structures:
+    add_options:
+    create:
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+    new_preview_url:
+    schemas:
+    schema_key:
+_snippets_imports:
+  hugo:
+    exclude:
+      - hugo_instagram
+timezone: America/New_York
+markdown:
+  engine: commonmark
+  options:
+    xhtml: false
+    breaks: false
+    linkify: false
+    typographer: false
+    spaced_lists: false
+    sentence_per_line: false
+    gfm: true
+    code_block_fences: '```'
+    escape_snippets_in_code_blocks: false
+    treat_indentation_as_code: true
+    table: false
+    strikethrough: false
+    subscript: false
+    superscript: false
+    heading_ids: false
+    attributes: false
