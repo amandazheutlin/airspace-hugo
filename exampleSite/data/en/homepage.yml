@@ -51,7 +51,7 @@ service:
   enable: true
   title: Other Interests
   service_item:
-  - icon: self_improvement
+  - icon: ion-android-self_improvement
     name: Yoga
   - name: Cooking
     content: ''
