@@ -51,15 +51,17 @@ about2:
 about3:
   enable: true
   image: "/images/fon8o7xvqaqllqi.jpg"
-  title: Organic Certification and Export Performance
-  description: 'with Tomás Lisazo, Ignacio Marra de Artiñano, Gabriel Scattolo, and
-    Christian Volpe Martincus. Work in progress. '
-  content: 'Consumers love to buy organic, but what does selling organic mean for
-    producers and distributors? We match organic certifications from the USDA with
-    firm-level customs data from Latin America. We estimate the impact of organic
-    certification on export performance and decompose it into several channels. Finally,
-    we examine spillovers to non-certified products within the firm and spillovers
-    to non-certified firms.  '
+  title: The Value of Organic Certification
+  description: 'with Ignacio Marra de Artiñano, Franco Riottini Depetris, Gabriel Scattolo, and
+    Christian Volpe Martincus. Draft coming soon. '
+  content: 'Consumer taste for organic products has grown, increasing demand and costs along 
+  agricultural value chains. We estimate the impact of the world's largest certification system
+  -- USDA organic -- on exporters from one of the world's most important organic production regions
+  -- Latin America. To do so, we use a novel dataset that combines the universe of agricultural 
+  export transactions from 10 countries in Latin America with the universe of organic certifications 
+  granted by the USDA since 2012. Our results indicate that certified firms increase exports 
+  to the USA relative to non-certified firms. We develop a model of selection into organic certification, 
+  which allows us to decompose the estimated impacts into cost and demand channels.  '
   button:
     enable: true
     label: Blog post
@@ -70,20 +72,21 @@ about3:
     link: "#"
 about4:
   enable: true
-  image: "/images/screen-shot-2022-03-29-at-3-31-18-pm.png"
-  title: Market Power in Global Agricultural Trade
-  description: Work in progress.
-  content: 'Global agricultural markets are dominated by large exporters, who can
-    exercise market power over small farmers. I develop a simple model where the concentration
-    of exporter sales, together with the sensitivity of crop choices to crop prices,
-    is a sufficient statistic for market power. I construct the former using data
-    from the World Bank and estimate the latter using data from the Food and Agriculture
-    Organization. Together with the model, these data allow me to measure market power
-    across all exported crops in more than 50 emerging markets. '
+  image: "/images/tech_tax_pic.jpeg"
+  title: 'Technology, Tax, and Domestic Trade: Evidence from Rwanda's Electronic Invoicing Expansion'
+  description: with Pierre Bachas, Kieran Byrne, John Karangwa, and Florence Kondylis. Draft coming soon.
+  content: 'Digital technology facilitates trade but also increases the visibility of firms' 
+  activity to the government. This paper examines the trade-off between technology adoption and 
+  regulatory exposure in the context of electronic billing machines (EBM) and business taxation 
+  in Rwanda. In December 2020, the government mandated that large firms' tax deductions for 
+  purchases be validated by corresponding EBM receipts. Using a shift-share design, we find that 
+  receipt demand from large clients predicts EBM adoption and growth of small suppliers. We combine 
+  a model of invoicing in supply chains and a nationwide survey of firms to shed light on the 
+  underlying mechanisms. '
   button:
-    enable: false
-    label: Abstract
-    link: "#"
+    enable: true
+    label: Conference Proceedings
+    link: "https://www.dropbox.com/scl/fi/idftvpeo18l9f58559le6/2024-Public-Finance-Conference-Proceedings.pdf?rlkey=on1ehc1bbxreumm926rhdcjae&e=1&st=uzzklne0&dl=0"
   button2:
     enable: false
     label: CV
