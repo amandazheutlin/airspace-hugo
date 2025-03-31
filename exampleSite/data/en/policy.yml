@@ -1,17 +1,16 @@
 ---
 about:
   enable: true
-  title: Policy & Outreach
-  content: Policy is at the heart of my work. I have partnered with the Ecuadorian
-    government and the World Bank to answer policy-relevant questions with administrative
-    data from millions of firms and individuals. In the process, I have published
-    shorter studies for policy audiences. I have traveled to Ecuador and Chile to
-    conduct field research, present findings, and lead data science workshops for
-    practitioners.
+  title: Policy Impact
+  content: Policy impact is at the heart of my work. I partner with World Bank teams 
+    and government agencies around the world to answer policy-relevant questions with 
+    rigorous evidence. I have contributed to several policy publications, most notably 
+    the 2025 World Development Report. I have worked closely with policymakers in Ecuador, 
+    Chile, Honduras, and Rwanda. 
   image: "/images/f5322176-7377-4ed8-85e1-de761f99cd98.JPG"
   description: ''
   button:
-    enable: true
+    enable: false
     label: Press Article
     link: https://clais.macmillan.yale.edu/news/export-supply-chains-ecuador
 featured_service:
@@ -31,12 +30,12 @@ featured_service:
     content: I coauthored a background paper with Daniel Lederman and Marcelo Olarreaga
       for the World Bank's report on Latin American Entrepreneurs, 2014. Later published
       in Canadian Journal of Development Studies, 2016.
-  - name: Data Science Workshop for Policy Professionals
-    link: https://clais.macmillan.yale.edu/news/export-supply-chains-ecuador
+  - name: Supply Chain Incentives and Tax Compliance in Rwanda
+    link: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099111224145514415/p1807921507e8400c18e631fe8569020110
     icon: ion-ios-monitor
     color: primary-darker
-    content: I created and taught a week-long workshop for analyzing tax records in
-      R at the Center for Fiscal Studies at the Ecuadorian Tax Authority in Quito.
+    content: "I cowrote a chapter and background paper for the World Bank\’s Rwanda 
+      Country Economic Memorandum, 2024."
 service:
   enable: false
   title: Other Interests
