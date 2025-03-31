@@ -16,13 +16,10 @@ banner:
 about:
   enable: true
   title: Research
-  description: 'I study competition in global value chains: how we measure it, how
-    it is shaped by policy, and how it shapes the lives of firms and individuals in
-    emerging economies.'
-  description2: 'I am an Economist in the World Bank''s Department of Impact Evaluation.
-    I was a Postdoctoral Fellow in the Postdoctoral Fellow in the International Economics
-    Section at Princeton University from 2021-2022. I received my PhD from Yale University
-    in 2021.  '
+  description: "I study how trade and tax policy interact with supply chains in emerging economies. 
+    I am an Economist in the World Bank\'s Department of Development Impact and a member of the DaTax Lab. "
+  description2: 'I received my PhD from Yale University in 2021 and was a Postdoctoral Fellow at 
+    Princeton University from 2021-2022.'
   image: "/images/06-lucas-zavala.jpg"
   button:
     enable: true
@@ -32,9 +29,9 @@ portfolio:
   enable: true
   bg_image: "/images/dc_capitol_edit.jpg"
   title: POLICY
-  content: "Engaging with policymakers is at the heart of my research. I partner with
-    government agencies and international organizations to ask policy-relevant questions
-    and share the answers I find.   \n "
+  content: "Engaging with policymakers is at the heart of my research. I partner with 
+    government agencies and World Bank teams to ask policy-relevant questions and 
+    share the answers I find.   \n "
   button:
     enable: true
     label: Read More
@@ -43,20 +40,20 @@ mentorship:
   enable: true
   bg_image: "/images/yale_fall_edit.jpg"
   title: MENTORING
-  content: "The best way to improve our research community is to help it grow larger
-    and more diverse. That’s why I have directed programs that mentor dozens of students
-    each year, both at Yale and abroad. \n"
+  content: "The best way to improve our research community is to help it grow larger 
+    and more diverse. That\'s why I have directed programs that mentor hundreds of 
+    students across the world. \n"
   button:
     enable: true
     label: Read More
     link: mentoring
 service:
   enable: true
-  title: Other Activities
+  title: Other Interests
   service_item:
   - icon: ion-ios-football
-    name: Intramural Sports
-  - name: Bird Watching
+    name: Yoga
+  - name: Cooking
     content: ''
     icon: ion-ios-glasses-outline
   - icon: ion-android-bicycle
