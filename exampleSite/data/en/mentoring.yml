@@ -11,7 +11,7 @@ about:
     a webinar series to demystify the application process, one-on-one mentoring to help 
     them complete the process, and financial support for application and test fees. 
     I directed the program during 2020 and 2021 and continue to serve as a mentor 
-    and strategic advisor. 
+    and strategic advisor. \n
   button:
     enable: true
     label: GAIN Website
@@ -50,7 +50,7 @@ about2:
     research process, from data collection to coding to writing. The program curriculum 
     includes a seminar series by Yale faculty and graduate students, a six-week 
     workshop in statistical programming and research skills, and social events to 
-    foster an active community. I helped design the program in 2017 and codirected it for 3 years."
+    foster an active community. I helped design the program in 2017 and codirected it for 3 years.\n"
   button:
     enable: true
     label: SCARF Website
