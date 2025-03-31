@@ -17,9 +17,9 @@ about:
   button:
     enable: true
     label: Course Website
-    link: https://sompks4.github.io/sub_2021_m803.html
+    link: https://sompks4.github.io/sub_2025_m803.html
 featured_service:
-  enable: true
+  enable: false
   service_item:
   - name: 'Case: MeToo & Sexual Crimes'
     icon: ion-android-alarm-clock
