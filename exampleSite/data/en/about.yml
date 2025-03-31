@@ -55,13 +55,13 @@ about3:
   description: 'with Ignacio Marra de Artiñano, Franco Riottini Depetris, Gabriel Scattolo, and
     Christian Volpe Martincus. Draft coming soon. '
   content: 'Consumer taste for organic products has grown, increasing demand and costs along 
-  agricultural value chains. We estimate the impact of the world's largest certification system
-  -- USDA organic -- on exporters from one of the world's most important organic production regions
-  -- Latin America. To do so, we use a novel dataset that combines the universe of agricultural 
-  export transactions from 10 countries in Latin America with the universe of organic certifications 
-  granted by the USDA since 2012. Our results indicate that certified firms increase exports 
-  to the USA relative to non-certified firms. We develop a model of selection into organic certification, 
-  which allows us to decompose the estimated impacts into cost and demand channels.  '
+    agricultural value chains. We estimate the impact of the world's largest certification system
+    -- USDA organic -- on exporters from one of the world's most important organic production regions
+    -- Latin America. To do so, we use a novel dataset that combines the universe of agricultural 
+    export transactions from 10 countries in Latin America with the universe of organic certifications 
+    granted by the USDA since 2012. Our results indicate that certified firms increase exports 
+    to the USA relative to non-certified firms. We develop a model of selection into organic certification, 
+    which allows us to decompose the estimated impacts into cost and demand channels.  '
   button:
     enable: true
     label: Blog post
@@ -76,13 +76,13 @@ about4:
   title: 'Technology, Tax, and Domestic Trade: Evidence from Rwanda's Electronic Invoicing Expansion'
   description: with Pierre Bachas, Kieran Byrne, John Karangwa, and Florence Kondylis. Draft coming soon.
   content: 'Digital technology facilitates trade but also increases the visibility of firms' 
-  activity to the government. This paper examines the trade-off between technology adoption and 
-  regulatory exposure in the context of electronic billing machines (EBM) and business taxation 
-  in Rwanda. In December 2020, the government mandated that large firms' tax deductions for 
-  purchases be validated by corresponding EBM receipts. Using a shift-share design, we find that 
-  receipt demand from large clients predicts EBM adoption and growth of small suppliers. We combine 
-  a model of invoicing in supply chains and a nationwide survey of firms to shed light on the 
-  underlying mechanisms. '
+    activity to the government. This paper examines the trade-off between technology adoption and 
+    regulatory exposure in the context of electronic billing machines (EBM) and business taxation 
+    in Rwanda. In December 2020, the government mandated that large firms' tax deductions for 
+    purchases be validated by corresponding EBM receipts. Using a shift-share design, we find that 
+    receipt demand from large clients predicts EBM adoption and growth of small suppliers. We combine 
+    a model of invoicing in supply chains and a nationwide survey of firms to shed light on the 
+    underlying mechanisms. '
   button:
     enable: true
     label: Conference Proceedings
