@@ -25,22 +25,21 @@ about:
     link: https://www.dropbox.com/s/48r8a4f6gf0hdp8/Lucas_Zavala_CV.pdf?raw=1
 about2:
   enable: true
-  image: "/images/cumulative-effects-price-1.png"
+  image: "/images/quality_regulation_pic.png"
   title: Quality Regulation Creates and Reallocates Trade
   description: with Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose Daniel Reyes. Under
     review.
-  content: Following the secular decline in tariff rates over the past 20 years, non-tariff
-    measures (NTMs) such as import quotas and product standards have become an increasingly
-    prevalent tool for implementing import substitution policies in  emerging economies.
-    We examine how NTMs  shape  market  structure  and  welfare  in international
-    and domestic markets. We construct the first dataset combining information on
-    importers and exporters; domestic producers and consumers; and the tariffs and
-    NTMs that restrict trade in Latin America. We show that border prices rise following
-    the  implementation of  a new NTM  and import markets become more concentrated.
-    Using a model of imperfect competition, we then decompose these effects into quality
-    and markup channels. Finally, we collect CPI and PPI microdata to examine how
-    domestic markets respond. Together, these results shed light on the welfare consequences
-    of import substitution policies.
+  content: Quality regulation has become the dominant instrument of trade policy. 
+    Panel evidence shows that regulations classified as sanitary and phytosanitary 
+    measures and technical barriers to trade both increase trade on average. Other 
+    non-tariff measures like quotas decrease trade. Sanitary and phytosanitary measures 
+    reallocate trade from lower-income exporting countries to higher-income exporting 
+    countries, while technical barriers to trade measures do the opposite. Sanitary and 
+    phytosanitary and technical barriers to trade measures increase the sales concentration 
+    of exporting firms from lower-income countries, but do not affect the concentration 
+    of exporting firms from higher-income countries or importing firms. The costs of 
+    quality regulation are primarily borne by exporting firms, especially in lower-income 
+    countries.
   button:
     enable: true
     label: Under review
