@@ -51,11 +51,11 @@ service:
   enable: true
   title: Other Interests
   service_item:
-  - icon: ion-android-self_improvement
+  - icon: ion-self-improvement
     name: Yoga
   - name: Cooking
     content: ''
-    icon: ion-ios-glasses-outline
+    icon: ion-leaf
   - icon: ion-android-bicycle
     name: Biking
     content: ''
