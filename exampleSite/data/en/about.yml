@@ -26,7 +26,7 @@ about:
 about2:
   enable: true
   image: "/images/cumulative-effects-price-1.png"
-  title: Quality Regulation creates and Reallocates Trade
+  title: Quality Regulation Creates and Reallocates Trade
   description: with Ana Fernandes, Ryan Haygood, Tristan Reed, and Jose Daniel Reyes. Under
     review.
   content: Following the secular decline in tariff rates over the past 20 years, non-tariff
@@ -42,9 +42,9 @@ about2:
     domestic markets respond. Together, these results shed light on the welfare consequences
     of import substitution policies.
   button:
-    enable: false
+    enable: true
     label: Under review
-    link: ''
+    link: 'https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099830011092318128/idu024f2b1070def5040720b16d012df71a0d969#:~:text=Quality%20regulation%20has%20become%20the,both%20increase%20trade%20on%20average.'
   button2:
     enable: false
     label: CV
