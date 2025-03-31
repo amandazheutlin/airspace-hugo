@@ -54,14 +54,14 @@ about3:
   title: The Value of Organic Certification
   description: 'with Ignacio Marra de Artiñano, Franco Riottini Depetris, Gabriel Scattolo, and
     Christian Volpe Martincus. Draft coming soon. '
-  content: 'Consumer taste for organic products has grown, increasing demand and costs along 
-    agricultural value chains. We estimate the impact of the worlds largest certification system
-    -- USDA organic -- on exporters from one of the worlds most important organic production regions
+  content: "Consumer taste for organic products has grown, increasing demand and costs along 
+    agricultural value chains. We estimate the impact of the world\'s largest certification system
+    -- USDA organic -- on exporters from one of the world\'s most important organic production regions
     -- Latin America. To do so, we use a novel dataset that combines the universe of agricultural 
     export transactions from 10 countries in Latin America with the universe of organic certifications 
     granted by the USDA since 2012. Our results indicate that certified firms increase exports 
     to the USA relative to non-certified firms. We develop a model of selection into organic certification, 
-    which allows us to decompose the estimated impacts into cost and demand channels.  '
+    which allows us to decompose the estimated impacts into cost and demand channels.  "
   button:
     enable: true
     label: Blog post
