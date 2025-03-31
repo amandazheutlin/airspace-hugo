@@ -55,7 +55,7 @@ service:
     name: Yoga
   - name: Cooking
     content: ''
-    icon: ion-ios-restaurant
+    icon: ion-restaurant
   - icon: ion-android-bicycle
     name: Biking
     content: ''
