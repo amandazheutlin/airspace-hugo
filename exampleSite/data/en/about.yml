@@ -94,16 +94,13 @@ about4:
 about5:
   enable: true
   image: "/images/tech_tax_pic.jpeg"
-  title: "Technology, Tax, and Domestic Trade: Evidence from Rwanda\'s Electronic Invoicing Expansion"
-  description: with Pierre Bachas, Kieran Byrne, John Karangwa, and Florence Kondylis. Draft coming soon.
-  content: "Digital technology facilitates trade but also increases the visibility of firms\'
-    activity to the government. This paper examines the trade-off between technology adoption and 
-    regulatory exposure in the context of electronic billing machines (EBM) and business taxation 
-    in Rwanda. In December 2020, the government mandated that large firms tax deductions for 
-    purchases be validated by corresponding EBM receipts. Using a shift-share design, we find that 
-    receipt demand from large clients predicts EBM adoption and growth of small suppliers. We combine 
-    a model of invoicing in supply chains and a nationwide survey of firms to shed light on the 
-    underlying mechanisms. "
+  title: New Work
+  description: Work in progress
+  content: |
+    1. “Regional Integration and Firm Networks in Honduras.” 
+    2. “Trade Policy for Human Capital Development,” with William Maloney and Andres Zambrano.
+    3. “Supply Chain Impacts of the EU Carbon Border Adjustment Mechanism,” with Gunes Asik, Anne Brockmeyer, and Verena Wiedemann.
+    4. “Market Structure and Firm Dynamism across Latin America,” with Pablo Garriga and Andres Zambrano.
   button:
     enable: true
     label: Conference Proceedings
