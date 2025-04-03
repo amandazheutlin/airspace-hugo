@@ -4,6 +4,7 @@
 
 {{ $data := index site.Data site.Language.Lang }}
 
+
 {{ if $data.mentoring.about.enable }}
 {{ with $data.mentoring.about }}
 <section class="about section">
@@ -19,7 +20,7 @@
         <div class="section-title">
         <p>{{ .description | markdownify }}</p>
         </div>
-        {{ .content | markdownify }}
+        <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
