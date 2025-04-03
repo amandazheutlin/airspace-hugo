@@ -102,7 +102,7 @@ about5:
     3. “Supply Chain Impacts of the EU Carbon Border Adjustment Mechanism,” with Gunes Asik, Anne Brockmeyer, and Verena Wiedemann.
     4. “Market Structure and Firm Dynamism across Latin America,” with Pablo Garriga and Andres Zambrano.
   button:
-    enable: true
+    enable: false
     label: Conference Proceedings
     link: "https://www.dropbox.com/scl/fi/idftvpeo18l9f58559le6/2024-Public-Finance-Conference-Proceedings.pdf?rlkey=on1ehc1bbxreumm926rhdcjae&e=1&st=uzzklne0&dl=0"
   button2:
